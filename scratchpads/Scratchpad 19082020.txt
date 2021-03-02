@@ -1,0 +1,25 @@
+Shareef Kannoth
+Dimitrios Siadimas
+Jason Griffin
+Jason Taylor
+Michael Firth
+
+Hi everyone,
+
+The purpose of this call is to introduce Five9 and the Dubai IT engineering team to each other and for a preliminary discussion around the integration of the current telephony set up in Dubai (consisting of the integration of the SIP PRI from the local SIP provider with the current PABX router) with Five9 where the local PABX router takes on the role of Session Border Controller (SBC).
+
+
+1/ Why is the form_id/brand_id written in the json body/code not sent over to Zendesk? If i set the brand_id to 12345 and the brand_id of the brand assigned to the account is 67890, the ticket in Zendesk is opened under brand id 67890. is it possible for the brand assigned to the account to be overridden by the brand set in the code, and if so, how?
+Or, do we need to create a separate account in Zendesk with it's own brand?
+Can we add such an account without incurring a charge, or does this always cost something? the following window appears when we try and add an account:
+
+
+2/ Is it possible to to have bot chats answered by agents logged into Zendesk? does the integration allow this possibility? if so, what would the cost be?
+
+3/ How do we access the response sent by Zendesk from within the code? What variable can we use for doing this?
+
+
+
+348 se tickets
+
+

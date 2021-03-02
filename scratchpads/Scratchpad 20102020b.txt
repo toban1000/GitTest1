@@ -1,0 +1,4 @@
+Create a web application containing all the functionality i've developed thus far
+Complete Python course
+To get the team up and running on GitLab
+To set up at least on help centre

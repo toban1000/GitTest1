@@ -1,0 +1,136 @@
+Udemy Lesson 90
+UI Controller
++++++++++++++
+DOMstrings
+
+
+
+Global controller
++++++++++++++++++
+setupEventListeners
+ctrlDeleteItem (new)
+
+
+Udemy Lesson 91
+Budget controller
++++++++++++++++++
+deleteItem (new)
+
+
+Global controller
++++++++++++++++++
+ctrlDeleteItem
+
+
+Udemy Lesson 92
+Budget controller
++++++++++++++++++
+
+
+
+Global controller
++++++++++++++++++
+ctrlDeleteItem
+
+
+UI Controller
++++++++++++++
+deleteListItem (new)
+
+
+
+Udemy Lesson 94
+Budget controller
++++++++++++++++++
+deleteItem (new)
+
+
+
+Global controller
++++++++++++++++++
+updatePercentages (new)
+ctrlAddItem
+ctrlDeleteItem
+
+Udemy Lesson 95
+Budget controller
++++++++++++++++++
+calculatePercentages (new)
+getPercentages (new)
+Expense.prototype.calcPercentage (new)
+Expense.prototype.getPercentage (new)
+Expense (change)
+
+
+Global controller
++++++++++++++++++
+updatePercentages
+
+
+Udemy Lesson 96
+UI Controller
++++++++++++++
+displayPercentages (new)
+DOMstrings
+
+Global controller
++++++++++++++++++
+updatePercentages
+
+
+Udemy Lesson 97
+UI Controller
++++++++++++++
+formatNumber (new)
+addListItem
+displayBudget
+
+
+Udemy Lesson 98
+UI Controller
++++++++++++++
+displayMonth (new)
+DOMStrings
+
+Global controller
++++++++++++++++++
+init
+
+
+Udemy Lesson 99
+Global controller
++++++++++++++++++
+setupEventListeners
+
+UI Controller
++++++++++++++
+changedType (new)
+displayedPercentages (var function declaration moved out and put elsewhere in the class)
+
+
+Case 01143471 (60K): Disable Queue Callback after...
+
+
+The 2 Five9 ‘s SBC (Primary and secondary) are now UP on all Multicom’s NMS.
+That’s a good point.
+
+Scott tried several calls to Multicom, the calls arrive (we can see them on our side) but there’s a voice issue: No voice on both side (Five9 and Multicom).
+
+Nixxis have now captures from Five9 side (London server which ip’s finishes by 36) and from Multicom’s side.
+They’ll analyse the captures and try to solve this voice issue.
+
+
+
+R2 01612178514 (70)
+R1 03308180181 (30)
+
+
+
+
+01612178538
+02380475606
+
+
+
+
+

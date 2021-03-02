@@ -1,0 +1,107 @@
+304 order numbers found in original list.					
+362 associated open ticket ids found after processing.
+
+
+
+304 order numbers found in original list.       
+
+362 associated open ticket ids found after processing.
+
+
+
+All 362 tickets were solved.
+
+
+
+Regards,
+
+Tony
+
+
+
+$(document).ready(function () {
+   if ( window.location.href === "https://help.ticketmaster.dk/hc/en-us/requests/new?ticket_form_id=360000135598" ){
+     		$(document).ready(function () {
+        		function onchangex() {
+            		var topicfield = $('#request_custom_fields_360010595238');
+            		var subjectfield = $('#request_custom_fields_360006664494');
+            		var res = topicfield.val();
+              	subjectfield.val(res);
+              	//$('#request_description').val(topicfield.val());
+        		}
+        		$('#request_custom_fields_360010595238').on('change', onchangex);
+				}); 
+   }
+});
+
+
+
+/////////////////////////////////////////////////////////////////////////////////
+
+Hi again,
+
+ 
+
+Nicolai from our It-team has talked to Five9 support today.
+
+It turned out that the chrome extensions were the problem.. apparently most of us had 2 extensions, and these had to be removed first.
+
+Then it worked..
+
+ 
+
+So let’s hope that this does the trick next time as well ??
+
+ 
+
+I guess we probably missed a notification about a release, or just did not think about it having this impact.
+
+Now we know for later.
+
+ 
+
+Regards,
+
+Amanda
+
+ 
+
+
+
+Amanda Bibelheimer
+Oct 15 09:57
+(assign)
+ 
+Hi guys,
+
+ 
+
+We occasionally get users that are not able to log in to Five9 because they suddenly have to download the extension & Five9 program again.
+
+Even though these users have now changed any thing on the computer, and have been using five9 every day without any issues.
+
+ 
+
+Nicolai, our local It-person, can usually solve this “problem” by clearing cookies, but today all of the Client Support agents have this issue and clearing the cookies does not help.
+
+The problem is that the agents are not able to install the program, because they are not local admin’s on their computers. So we have to have Nicolai do this every time – first uninstall the current program and install it again.
+
+ 
+
+We can’t see any system in when this happens, but it is very frustrating for us.
+
+Do you know of any ways to prevent this from happening or do you know why/when this happens?
+
+The users in our Call-centre are not getting this error, only people from Client Support.
+
+Med venlig hilsen / Best regards,
+
+Amanda Bibelheimer
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+
+2379 order numbers found in original list.					
+2568 associated open ticket ids found after processing.

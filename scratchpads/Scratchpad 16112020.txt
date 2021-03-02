@@ -1,0 +1,56 @@
+The Python Mega Course: Build 10 Real World Applications
+
+3066 order numbers found in original list.
+3360 associated open ticket ids found after processing.
+
+kyle.carberry-Byrne@ticketmaster.co.uk
+%)3N~Hf=#<Y
+
+a9E7L\h{=S
+
+
+From Jarred Ford to Everyone:  02:33 PM
+https://confluence.livenation.com/display/GCCR/Platform+Overview
+From Mike Fisk to Everyone:  03:03 PM
+have to drop for a bit will be back
+From Jarred Ford to Everyone:  03:06 PM
+http://gccr.prod-tmaws.io
+
+
+From Jarred Ford to Everyone:  02:33 PM
+https://confluence.livenation.com/display/GCCR/Platform+Overview
+From Mike Fisk to Everyone:  03:03 PM
+have to drop for a bit will be back
+From Jarred Ford to Everyone:  03:06 PM
+http://gccr.prod-tmaws.io
+From Jarred Ford to Everyone:  04:00 PM
+https://confluence.livenation.com/display/GCCR/Allocation+Process
+
+
+
+
+^([#]([\w]{1,4})[_]([\w]{1,6}))$
+
+
+(^(([\d]{1,2})[-]([\d]{5})[\/]([\w]{3}))$)|(^(([\d]{1,2})[-]([\d]{5}))$)
+
+1868 order numbers found in original list.
+2070 associated open ticket ids found after processing.
+
+
+go through the responses from Adam Strand and repoint the numbers
+try and finish Belgium
+finish the Monkeylearn documentation
+Monkeylearn ticket
+
+
+Description on BE Callback form:
+
+English:
+You can provide your details here so that we can call you back later today (Monday to Friday 1400-1600).
+
+French:
+Vous pouvez nous fournir vos coordonnées ici afin que nous puissions vous rappeler plus tard dans la journée (du lundi au vendredi de 14 h à 16 h).
+
+Dutch:
+U kunt hier uw gegevens invullen zodat wij u later op de dag (maandag t / m vrijdag 1400-1600) terug kunnen bellen.

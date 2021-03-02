@@ -1,0 +1,37 @@
+Button
+
+
+Message Review Date
+Review Date
+QryByReviewDate
+ReviewDateFive9
+
+
+Search by File Name
+Telephone Service
+QryByTelephoneService
+ServiceFive9
+
+
+Announcement name or number
+Announcement number
+QryByAnnouncementNumber
+ServiceFive9
+
+Search by Message Text
+Announcement Text
+QryByAnnouncement
+MessageTextFive9
+
+
+Search by Voice
+Voice
+QryByVoice
+RecordingArtistFive9
+
+
+
+To Record on Five9
+STOP PRESS
+QryByStopPress
+StopPressFive9

@@ -1,0 +1,112 @@
+29/07/2020
+1 - Get hold of contact centre managers for the various markets and send them the PCI matrix to fill in
+	Jofre - ES
+
+TBC notices
+Belgium (Location takes telephony payment?, Payment made on inbound call, 
+France (Outbound calls are made from location, Payments made on outbound call, Call recording switched on, AOC required)
+
+
+
+
+
+2 - Make a start on tagging tickets with the various phishing tags.
+3 - Tidy up email
+4 - Tidy up Documents
+5 - Call Jo
+6 - Complete Danish anomalous call ticket
+7 - Tidy up tickets
+8 - Look for EventDB references
+9 - Chase five9 for PRI information
+10 - Deliver five9 RCA for relevant markets
+	relevant markets = NL, TMS, DK, Stoke
+
+
+Order ids 28 07 2020 - 29072020a
+
+
+
+Our Call Centre and Client Support are changing the opening hours.
+
+This applies all lines in our call-centre and our Client Support.
+
+ 
+
+Our call centre includes:
+
+38481630 – Løssalg (70156565)
+
+38481631 – Information
+
+38481633 – Accessibility
+
+38481634 – DHF
+
+38481635 – Gruppeservice (70256585)
+
+ 
+
+These should from 01. May 2020 be open
+
+Monday to Friday from 10.00 – 14.00
+
+ 
+
+Client Support only has one line, which is 38481616.
+
+This should from 01. May 2020 be open
+
+Monday to Friday from 9.00 – 15.00
+
+30/07/2020
+MyAccount - UK Form:
+Fields:
+MyTM- UK - Subtopic - My Order = 360008969337
+MyTM-UK - Sub-Subtopic - Delivery = 360008957518
+MyTM - UK - Nested Topic = 360008968877
+
+31/07/2020
+CCSI Form = 360000237113
+Brand ID = 360001085574
+Fields:
+PreFill test field = 360006745998
+CCSI disposition = 360010336794
+Description = 360006648394
+Type = 360006648434
+Subject = 360006648374
+CCSI Ticket summary = 360005482418
+CCSI Market = 360013769713
+variables:
+ccsi_disposition
+description
+type
+subject
+ccsi_ticket_summary
+ccsi_market
+
+Finland run
+3223884   closed
+
+NL run
+4625765 has been solved at 2020/07/31 11:29:42
+
+
+feb
+mar		11
+apr		13
+may		19
+jun		33
+jul		2428
+jul29
+
+
+695 order numbers found in original list					
+724 associated open ticket ids found after processing
+
+454 order numbers found in original list.
+491 associated open ticket ids found after processing.
+
+
+
+
+

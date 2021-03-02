@@ -1,0 +1,97 @@
+24/07/2020
+Automations
+2020_07_22_BULK_REFUND_DIRECT - 24072020a
+{{dc.nl-nl_refund_direct}}
+{{dc.nl-refund_refused_voucher_subject}}
+2020_07_14_BULK_REFUND_DELAYED5 - 24072020b
+{{dc.nl-refund_delay_5}}
+{{dc.nl-refund_refused_voucher_subject}}
+
+IT Refund Voucher Refused + Close + Private Comment
+
+1 - create the source text files
+2 - create the dynamic content
+3 - paste the email text into the dynamic content
+4 - create the triggers
+5 - paste source text file names into the 2 placeholders in the Ticket Closer
+6 - copy the comment string from the trigger into the relevant placeholder in the Ticket Closer
+7 - run the status checker for each text file
+
+
+
+4644363 - delay
+
+4644352 - refund direct
+
+
+IT_VOUCHER_REFUSED
+4363224
+
+tickets found in both categories
+4365596 refused sheet 1/ voucher sent sheet 1
+4364736 refused sheet 1/ voucher sent sheet 1
+
+
+Italian ticket:
+Ticket ZD to close 26.06.2020 - original number of tickets was 326.
+
+3 tickets had been closed previously; 323 tickets were solved during this process.
+
+
+
+Ticket ZD to close 01.07.2020 - original number of tickets was - 200
+
+7 tickets had  been closed previously; 193 tickets were solved during this process.
+
+
+
+Tickets ZD to close_03.07.2020 - original number of tickets was - 492
+
+10 tickets had been closed previously; 482 tickets were solved during this process.
+
+
+
+Ticket Zd to close_14072020 - original number of tickets was - 405
+
+1 ticket had been closed previously; 404 tickets were solved during this process.
+
+
+
+Ticket ZD to close_15072020 - original number of tickets was - 104
+
+32 tickets had been closed previously; 72 tickets were solved during this process.
+
+
+
+2_Tickets ZD to close_15072020 - original number of tickets was - 435
+
+All 435 tickets were solved in this process.
+
+
+curl --insecure https://ticketmaster.zendesk.com/api/v2/brands.json  \ -v -u
+curl --insecure https://ticketmaster.zendesk.com/api/v2/tickets/create_many.json \ -d "{\"tickets\":[{\"subject\":\"Myskyisblue!\",\"comment\":{ \"body\": \"The cloud is very grey.\" }},{\"subject\":"Yay!\",\"comment\":{\"body\":\ "Yoohoo I need somebody.\"}}]}" \ -H "Content-Type: application/json" -v -u tony.obanye@ticketmaster.co.uk:Dragon123! -X POST
+
+French ticket:
+2471 order numbers found in original list.       
+
+2838 associated open ticket ids found after processing.
+
+
+
+19 of these tickets were closed previously.
+
+
+
+The remaining 2819 tickets were solved during this process.
+
+
+
+Regards,
+
+Tony
+
+
+New API Token
+tVIMYdX80IDbOcjPftj8Cn8YQ9Ufg0vVzwJzDZt2
+
+Basic dG9ueS5vYmFueWVAdGlja2V0bWFzdGVyLmNvLnVrL3Rva2VuOnRWSU1ZZFg4MElEYk9jalBmdGo4Q244WVE5VWZnMHZWendKekRadDI=

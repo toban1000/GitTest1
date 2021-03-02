@@ -1,0 +1,13 @@
+Hi Erika,
+
+Our client just gave us the following call details. This call was an hour long and seems excessive. 
+Most calls for this skill haven't queued for this length of time. What combination of priority and 
+agent availability gave rise to this situation?
+
+
+CallID:	400000002441464 
+Time:	Wed, 9 Oct 2019 11:12:15 (GMT) 
+Agent:	stanimir.totev@60k.bg 
+ANI:	+46728634385  
+DNIS:	+46771707070
+QueueTime:00:59:25 

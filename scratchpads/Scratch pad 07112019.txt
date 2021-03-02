@@ -1,0 +1,29 @@
+NOTE:
+The FTP needs to have READ/WRITE access
+Contact your FTP host provider or FTP administrator and make sure that the FTP follows the Five9 Technical Requirements and that Five9 IP ranges are allowed
+Make sure that the FTP is online
+Contact Five9 Customer Support
+
+
+
+Trello items to look at:
+Callback
+Canvas - have sent a request to the Planning team to send us an idea of what types of canvas they want on Five9
+Call Flows
+Skills
+Email + Event Code Disposition + Purchase Date
+Date Time Evals
+Network Tests
+Survey - put Survey in place.
+
+
+
+Ticketmaster1
+
+
+@ticketmaster.co.uk
+
+
+
+
+

@@ -1,0 +1,98 @@
+parola, sifre, hata, güvenlik, Ihlal, giris, sifirla, basarisiz, dolandiricilik, hacked, hesap
+
+giris yap, saldiriya ugrama, siber saldiri
+
+
+(COUNT(Tickets with account takeover keyword tags FR)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags DE)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags AT)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags CH)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags IT)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags ES)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags GR)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags TR)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags PL)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags IL)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags CZ)/COUNT(Tickets))*1000
+
+
+
+curl --insecure https://ticketmaster.zendesk.com/api/v2/views.json \  -d '{"view": {"title": "TonyO Test", "all": [{"field": "status", "operator": "is", "value": open"}, {"field": "priority", "operator": "less_than", "value": "high"}], "any": [{ "field": "current_tags", "operator": "includes", "value": "hello" }]}}' \  -H "Content-Type: application/json" \   -v -u tony.obanye@ticketmaster.co.uk:Dragon123!!!! -X POST
+
+account_takeover_keyword_found_be
+
+
+
+1108 order numbers found in original list.					
+1206 associated open ticket ids found after processing.
+
+
+3467 order numbers found in original list.
+3790 associated open ticket ids found after processing.
+
+
+7019 order numbers found in original list.					
+7907 associated open ticket ids found after processing.
+
+
+
+1108 order numbers found in original list.					
+1213 associated open ticket ids found after processing.
+
+
+1083 order numbers found in original list.					
+1177 associated open ticket ids found after processing.
+
+
+
+To have put in place extensive Botmaker chat flow.
+Build a web application incorporating all the functionality i've developed, putting the disparate parts in one location. Part of my development as a Java developer.
+Getting team access to Gitlab and having it used as a routine resource where it is viable to do so.
+Complete the udemy Python course.
+Build Zendesk help centre.
+
+
+
+https://livenation.zoom.us/my/jaytay
+
+468303616
+
+
+
+
+Extra work and testing on the Ticket closing tool
+3/7 - 5h
+4/7 - 5h
+5/7 - 5h
+
+Removing the Replay function from each of the connected Talk Talk numbers and providing a screenshot of the status of each number once this had been completed.
+20/7 - 2h
+
+
+114LouisStreet
+
+
+{{dc.fi-api_auto_close_-_already_resolved}}
+
+
+Putative test number: 3332343999 currently pointed at 03308180069
+Spare NGNs: 03308180069
+3332343999 now pointing at new QPR service
+
+
+
+ZD refunded tickets FI 100920a - 15092020d - out - using new app
+
+
+Botmaker
+https://youtu.be/LPvVxXogCSk?t=42
+
+3209 order numbers found in original list.
+3348 associated open ticket ids found after processing.
+
+
+01618323823
+
+
+
+

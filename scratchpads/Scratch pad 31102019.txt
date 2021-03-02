@@ -1,0 +1,39 @@
+var personProto = {
+	calculateAge: function(){
+	    console.log(2016 - this.yearOfBirth);
+	}
+};
+
+
+var john = Object.create(personProto);
+john.name = 'John';
+john.yearOfBirth = 1990;
+john.job = 'teacher';
+
+
+var jane = Object.create(personProto,
+	{
+		name: {value: 'Jane'},
+		yearOfBirth: {value: 1969},
+		job: {value: 'designer'}
+	});
+
+
+
+4000000000000003160 (be)
++3228082348
+
+400000000000335 (ie)
+
+400000000000509(tr)
+
+
+subject
+{{dc.csat_how_would_you_rate_the_support_you_received}} (#{{ticket.id}})
+
+body
+{{dc.be-csat}}
+
+{{ticket.comments_formatted}}
+{{dc.email_template_liquid_logic}}
+	

@@ -1,0 +1,114 @@
+Hi Rachel,
+
+I have a number of questions about this process.
+
+We are currently using Google Tag Manager in most of our pages. So for the test site, https://ccsi.zendesk.com/hc/en-us, we are using the scripts for the head section shown in the attached text file.
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NMSNF2L');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Evidon Universal Tag -->
+<script type="text/javascript">
+    (function (id) {
+        function append(scriptid, url, async) {
+            var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];
+            if (!f) f = d.head;
+            var s = d.createElement(sn);
+            s.async = true;
+            s.id = scriptid;
+            s.src = url;
+            f.parentNode.insertBefore(s, f);
+        }
+
+        function getRootDomain() {
+            var parts = window.location.hostname.split('.');
+            if (parts.length === 2) rootDomain = parts[0];
+            else if (parts.length > 2) {
+              // see if the next to last value is a common tld
+              var part = parts[parts.length - 2];
+              if (part === 'com' || part === 'co') {
+                rootDomain = parts[parts.length - 3]; // go back one more
+              }
+              else {
+                rootDomain = part;
+              }
+            }
+
+          return rootDomain;
+        }
+
+        window.evidon = {};
+        window.evidon.id = id;
+        var cdn = '//c.evidon.com/', rootDomain = getRootDomain(), noticecdn = cdn + 'sitenotice/';
+        append('evidon-notice', noticecdn + 'evidon-sitenotice-tag.js', false);
+        append('evidon-location', cdn + 'geo/country.js', true);
+        append('evidon-themes', noticecdn + id + '/snthemes.js', true);
+        if (rootDomain) append('evidon-settings', noticecdn + id + '/' + rootDomain + '/settings.js', true);
+
+        window.evidon.priorConsentCallback = function () {
+            // add the tags which need to wait for prior consent
+            // here.  This should be all your advertising tags and
+            // probably most of your social and tracking tags.
+        }
+
+        window.evidon.closeCallback = function () {
+            // this is executed if the user closed a UI element without either Accepting (providing consent)
+            // or Declining (declining to provide consent).
+        }
+
+        window.evidon.consentWithdrawnCallback = function () {
+            // this is exeucted if the user withdraws consent and elects to
+            // no longer allow technologies to run on the site.
+        }
+
+        window.evidon.consentDeclinedCallback = function () {
+            // this is executed if the user explicitly declines giving consent by
+            // using a Decline button
+        }
+    })(1824);
+</script>
+<!-- End Evidon Universal Tag Manager -->
+
+
+In the pdf document OneTrust-Cookie Compliance Integration with Google Tag Manager.pdf, under the section To Create a New Variable, there is the following instruction:
+Open the container in Google Tag Manager. 
+
+Who is supposed to be accessing this tool/application and following the instructions listed? Do I need to have this tool or are these instructions only carried out by your team, and what is the tool/application? Also, is the container that the documentation refers to, the json file OTCC_GTM_Import.json in the Bridge between GTM & OneTrust section on this page?
+
+Presumably, I also need to remove the Evidon scripting from the relevant web pabe in order to run with the OneTrust code?
+
+For our https://help.ticketmaster.ie/hc/en-ie webpages, we are not using GTM, so I have just pasted the scripts in the relevant places in the code. Currently, there is no response when I hit the Cookies Settings button (id="ot-sdk-btn" class="ot-sdk-show-settings). Is this because work is still being done on the back end, or is there something I have missed? Related to this, when loading the page, I found the following error:
+
+VM501:1 Uncaught SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at XMLHttpRequest.a.onload (otSDKStub.js:1).
+
+Thanks,
+Tony
+
+
+{window.dataLayer.push({event:'OneTrustGroupsUpdated'});}
+
+
+https://ccsi.zendesk.com/hc/en-us
+https://help.ticketmaster.ie/hc/en-ie
+https://resale-help.ticketmaster.ie/hc/en-us
+
+
+"tags": "botmaker_livenation_streaming",
+
+
+New trigger for Ruth Dooley
+UK Group - Route to CNX Play (UK - Reinstate my Deposit Payments)
+
+
+'<p><img src="{{asset 'Dispatch.svg'}}" class="blocks-image"></p>'
+'<p><img src="{{asset 'Dispatch.svg'}}"></p>'
+
+
+

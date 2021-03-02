@@ -1,0 +1,152 @@
+2020-11-22 Batchsvar DK Refunderinger - 23112020a
+
+ZD refunded tickets FI 231120a - 23112020b
+
+ZD refunded tickets FI 231120b - 23112020c
+
+
+{"base":[{"description":"Order reference: cannot be blank","error":"BlankValue","field_key":360009754438},{"description":"Live Stream event date: is invalid","error":"InvalidValue","field_key":360009754458}],"requester":[{"description":"Requester: Name: is too short (minimum one character)"}]}}
+
+
+UsersName = UsersName = "Tony Obanye"
+Order Reference = Orderreference = ""
+
+
+Check the following intents:
+Please type in a brief description of your issue
+Enter brief description
+Enter order number
+Receive Live Nation Order Number
+
+in the code:fecha
+replace fecha with variables.eventdate.toISOString().slice(0, 10)
+changed eventdate to Date type (originally was String)
+
+variables.eventdate.split("-").reverse().join("-")
+
+Search for "What event are is this about?" and correct
+Search for "...can you confirm you are the card holder for the order?" and correct "yes" to "Yes"
+
+The link to add to the Belgian website in order to access Callback (this is the live article page)
+https://ccsi.zendesk.com/hc/en-us/articles/360015878218
+
+When you want to edit the article
+https://ticketmaster.zendesk.com/knowledge/articles/360015878218/en-us?brand_id=360001085574
+
+https://help.ticketmaster.be/hc/en-us/requests/new?ticket_form_id=360000140178
+
+if ( window.location.href === "https://help.ticketmaster.be/hc/en-us/requests/new?ticket_form_id=360000232558" ){
+
+
+1623 order numbers found in original list.					
+1749 associated open ticket ids found after processing.
+
+
+
+Ticketmaster Zendesk Support SE)
+
+1811 order numbers found in original list.					
+1980 associated open ticket ids found after processing.
+
+
+Five9 Key rotation
+Case: 01356127
+
+UAE/Dubai
+how have you done with sourcing your numbers locally
+how is the renovation of the telephony kit going
+
+Shareef Kannoth
+Dimitrios Siadimas
+(call was on 19th Aug 2020 - search the calendar)
+
+stheven.yco@five9.com
+
+
+Datasets i've changed the account for
+
+
+talk talk housekeeping
+automations
+domo housekeeping
+botmaker lucidchart
+
+
+1744 order numbers found in original list.
+1979 associated open ticket ids found after processing.
+
+
+
+Asked Five9 to implement the new access and secret keys for the AWS-based sFTP set up
+
+
+
+https://ticketmaster.zendesk.com//api/v2/tags.json
+
+honda
+civic
+toyota
+lexus
+
+5157553
+5157844
+5157859
+5159690
+5157811
+5161041
+
+accessible_automation
+accessible_application_tmuk
+uk_customer_care
+
+
+accessible_uk_reservation_off
+secondaccessemail
+firstaccessemail
+escalate_to_uk_access
+
+
+2448 order numbers found in original list.					
+2888 associated open ticket ids found after processing.
+
+
+
+accessible_automation
+accessible_uk_reservation_off
+current_public_comment_updater_agent
+firstaccessemail
+secondaccessemail
+
+
+uk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agentfirstaccessemailuk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agentfirstaccessemailuk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agenthi_name_macrosecondaccessemailuk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agenthi_name_macrosecondaccessemailuk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agentsecondaccessemailuk5
+accessible_automationaccessible_uk_reservation_offcurrent_public_comment_updater_agentfirstaccessemailuk5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

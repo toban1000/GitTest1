@@ -1,0 +1,40 @@
+Supervisor-Plus-Campaign-State-List-Fields
+Supervisor-Plus-Campaign-State-List-Fields
+What is the default value of "Attempts" in the Campaign Manager Rolling Period?
+
+
+
+
+budget
+
+calculateTotal
+calculateBudget
+getBudget
+change to data
+
+
+controller
+change to updateBudget
+change to ctrlAddItem? (=updateBudget)
+
+
+DateTimeEval checks for the Five9 UK domain
+Corrections:
+Open time corrected from 8:59 AM to 9:59 AM
+
+
+PP1 Purchase Policy Message 1
+Our goal at Ticketmaster UK Limited
+
+
+PP2 Purchase Policy Message 2
+If we discover an error in the price of any item you have ordered
+
+PP3 Purchase Policy Message 3
+6.7 Tickets may be sold subject to certain restrictions on entry
+
+
+PP4 Purchase Policy Message 4
+8.7 This purchase policy does not and shall not affect your staturory rights as a consumer
+
+

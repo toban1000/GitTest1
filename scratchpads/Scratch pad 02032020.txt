@@ -1,0 +1,157 @@
+tony.obanye@ticketmaster.co.uk;jason.taylor@ticketmaster.co.uk
+
+
+
+Coronav.ma37xjy3hqnquw3j@u.box.com
+
+
+Coronavirus Dispo Count - Denmark - Domo.csv
+
+Coronavirus Iade Istegi = Coronavirus Return Request
+Coronavirus Bilgi Istegi = Coronavirus Information Request
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%20ticket+status%3Aclosed+group%3ATMFR%20Support%20sort_by=status&sort_order=desc
+https://ticketmaster.zendesk.com/api/v2/search.json?page=2&query=type%20ticket+group%3AUK%20General%20sort_by=status&sort_order=desc
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket+status%3Aclosed+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc
+
+__dc.custom_field_refund_method_check_fr__
+current_public_comment_updater_end_user
+topic_fr_refund_etickets_for_canceled_postponed_event
+
+current_public_comment_updater_end_user
+remboursement_in_comment
+remboursement_refund_rembourser_in_comment
+serviceclient_no_remboursement_in_comment
+spectacle_annulé_/_reporté
+topic_fr_refund_etickets_for_canceled_postponed_event
+
+__dc.custom_field_refund_method_credit_card_fr__
+current_public_comment_updater_end_user
+topic_fr_refund_etickets_for_canceled_postponed_event
+
+__dc.custom_field_refund_method_credit_card_fr__
+current_public_comment_updater_end_user
+remboursement_in_comment
+remboursement_refund_rembourser_in_comment
+topic_fr_refund_etickets_for_canceled_postponed_event
+
+__dc.custom_field_refund_method_credit_card_fr__
+current_public_comment_updater_end_user
+remboursement_in_comment
+remboursement_refund_rembourser_in_comment
+topic_fr_refund_etickets_for_canceled_postponed_event
+
+
+description:defective
+https://ticketmaster.zendesk.com/api/v2/search.json?query=type:ticket%20created:2019-09-01%20description:theatre%20group:%22UK%20General
+
+https://ticketmaster.zendesk.com/api/v2/search.json?query=type:ticket%20created:2019-09-01%20group:%22IT%20Support  %20description:theatre%20
+
+https://ticketmaster.zendesk.com/api/v2/search.json?query=type:ticket%20created:2019-09-01%20description:theatre%20group:%22IT%20Support
+
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created>2020-02-14T00:00:00Z%20group:%22IT%20Support%20created<2020-02-14T01:00:00Z%20status<closed&sort_by=status&sort_order=desc
+
+Italian example
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created>2020-02-14T00:00:00Z%20created<2020-02-14T01:00:00Z%20group:%22IT%20Support%20%20status<closed&sort_by=status&sort_order=desc
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created>2020-01-01T00:00:00Z%20created<2020-03-30T01:00:00Z%20group:%22IT%20Support%20description:me%20status<closed&sort_by=status&sort_order=desc
+
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-10%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-25%20group:%22UK%20General%22
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-25%20group:%22IT%20Support%22
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-25%20group:%22TMFR%20Support%22
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-25%20group:%22UK%20General%22
+https://ticketmaster.zendesk.com/api/v2/search.json?page=2&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-25
+https://ticketmaster.zendesk.com/api/v2/search.json?page=2&query=type:ticket%20status:open%20created%3C2020-03-01
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20status:open%20created%3C2020-03-01%20created%3E2020-02-01%20group:%22UK%20General%22
+
+
+
+
+
+https://help.ticketmaster.co.uk/hc/en-us/requests/new?ticket_form_id=360000128058&email=jason.taylor@ticketmaster.co.uk
+if ( window.location.pathname.indexOf('/requests/new?ticket_form_id=360000149178@') > -1)
+
+
+if ( window.location.href === "https://ccsi.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000149178&email=jason@hotmail.com"){
+
+
+https://livenation.zoom.us/j/157351961
+
+
+
+
+197000299 tuesday 0755
+205931994 monday 1857 ticket id = 2823096
+204899312 tuesday 1448
+201539682 tuesday 1449
+193466462 tuesday 1003
+
+
+https://app.slack.com/team/UHBB5EJ95
+
+
+"SELECT * FROM [Services 10012020] WHERE  Network_Number like '*" & InputBox("Enter Part of Network Number", "Network Number") & "*'" Or Network_Number_Secondary like '*" & InputBox("Enter Part of Network Number", "Network Number") & "*'" Or Network_Number_Tertiary like '*" & InputBox("Enter Part of Network Number", "Network Number") & "*'"
+
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-01%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 159166009
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-03%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 165707788
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-13%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 189187557
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-21%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 187324348
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-25%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 186660033
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type%3Aticket%20created:2020-01-30%20+tags%3Atopic_fr_refund_etickets_for_canceled_postponed_event&sort_by=status&sort_order=desc - 187464011
+
+UK
+Coronavirus::Coronavirus Information Request
+Coronavirus::Coronavirus Refund Request
+
+Turkey
+Coronavirus Bilgi Istegi
+Coronavirus Iade Istegi
+
+Ireland
+Coronavirus : Coronavirus Refund Request
+Coronavirus : Coronavirus Information Request
+
+
+Netherlands
+20. Coronavirus Refund Request
+19. Coronavirus Information Request
+
+
+
+Coronavirus Dispo Count - Belgium - Domo
+Coronavirus Dispo Count - Denmark - Domo
+Coronavirus Dispo Count - Ireland - Domo
+Coronavirus Dispo Count - Norway - Domo
+Coronavirus Dispo Count - Poland - Domo
+Coronavirus Dispo Count - Sweden - Domo
+Coronavirus Dispo Count - Turkey - Domo
+Coronavirus Dispo Count - UK - Domo
+Coronavirus Dispo Count - Netherlands - Domo
+
+
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+
+
+
+

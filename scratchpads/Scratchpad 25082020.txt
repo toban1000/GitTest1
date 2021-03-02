@@ -1,0 +1,70 @@
+if you have received it in error
+au
+es
+ie
+uk
+cnx
+
+
+password,error,security,breach,login,log in, log-in, reset, unsuccessful, fraud, hacked
+
+
+password, error, security, breach, login, log, log-in, reset, unsuccessful, fraud, hacked
+
+
+z7m,hhLNwpy
+
+DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+Date date = new Date();
+
+while(LocalDate.now().isBefore(limit))
+
+
+
+209 closed
+
+
+w!d!xq8T8%
+
+
+euw1wxlink01.lyv.livenation.com
+
+Translation of hacked
+---------------------
+no = hacket
+se = hacka
+dk = hacket
+fi = hakata
+au/de = gehackt
+be = piraté, gehackt
+fr = piraté
+es = hackeado
+it = hacked
+ch = piraté, gehackt, hacked
+cz = hacknutý
+gr = hacked
+tr = kesmek
+nl = gehackt
+pl = hacked
+
+
+(COUNT(Tickets with account takeover keyword tags IE)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags AU)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags NZ)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags ZA)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags SE)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags NO)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags DK)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags FI)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags BE)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags NL)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags FR)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags DE)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags AT)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags IT)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags CH)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags ES)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags GR)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags CZ)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags PL)/COUNT(Tickets))*1000
+(COUNT(Tickets with account takeover keyword tags IL)/COUNT(Tickets))*1000

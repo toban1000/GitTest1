@@ -1,0 +1,116 @@
+ if ( current_form_id == "360000127233" ) { // Fan Guarantee form
+        
+           // defaulted to English
+   var message1 = "<span class='form_appended_text'>Please submit this form only if you have purchased ticket(s) to an event that is cancelled or rescheduled, and if you want to get yor ticket refunded in accordance with instrucions sent via email.<br>By submitting this form, you are confirming that you agree that Ticketmaster Finland will process the order in accordance with the choices that you have made on the form.<br>Please note that if you have purchased ticket(s)/add on(s) at different times we ask you to please submit in one form per order number.<br>When this form is submitted, we will process your request as fast as we can, it will not be possible to alter the request after it has been submitted.<br><br>Only the ticket price will be refunded. The refund doesn't apply to the handling fee, delivery costs, order fee nor to the Collector Ticket fee.<br><br>Because of the large number of cancelled and rescheduled events, it will take longer than normal to process your request. We are sorry for that.";
+        
+        if( isFinish ) { // Finish translation
+          var message1 = "<span class='form_appended_text'>Ennen kuin täytät lomakkeen, niin huomaathan tarkistaa seuraavat asiat:<ul style='list-style-type:disc;margin-left:20px;'><li>Lippuja ei voi vaihtaa/palauttaa Fan Guaranteen kautta, mikäli osto on tehty käyttäen Klarna-maksutapaa tai liput ovat kausikortteja, sarjalippuja, aitioita, VIP-lippuja, Platinum-lippuja, dynaamisesti hinnoiteltuja lippuja, alennuslippuja, usean päivän lippuja tai muita lippupaketteja</li><li>Hakemus pitää tehdä 24 tunnin sisällä lippujen tilauksesta (mikäli haluat vain perua lippusi)</li><li>Fan Guarantee ei ole voimassa mikäli tilaisuuteen on alle kaksi viikkoa</li><li>Collector Tickettejä ei voi vaihtaa tai päivittää Tarkemmat ehdot ja rajoitukset löytyvät <a href='https://www.ticketmaster.fi/help/Customerpolicy/?language=fi-fi' target='_blank'><b> täältä</b></a></li></ul>Täytä tämä lomake myös mikäli tapahtuman järjestäjä peruu tapahtuman.</span>";
+        }
+
+         $('.form').prepend(message1);
+      }
+
+
+
+
+
+
+/////////////////////////////////////
+
+var message1 = "<span class='form_appended_text'>Please submit this form only if you have purchased tickets to an event that is cancelled or rescheduled, and if you want to get your ticket refunded. If your inquiry is about another topic, please use <a href='https://help.ticketmaster.fi/hc/en-us/requests/new?ticket_form_id=360000132334'><b> this form</b></a>.<br>After submitting the form you will receive a confirmation to your email address. It will not be possible to alter the request after it has been submitted.<br>Please note that if you have purchased ticket(s) at different times we ask you to please submit in one form per order number. The refund always applies to the entire order and to all tickets in the order.<br>Because of the large number of cancelled and rescheduled events, it will take longer than normal to process your request. We are sorry for that.";
+
+
+
+
+
+
+var message1 = "<span class='form_appended_text'>Täytä tämä lomake, mikäli olet ostanut lippuja tapahtumaan, joka on peruttu tai siirretty, ja haluat saada hyvityksen lipuistasi.<br>Mikäli asiasi koskee muuta kuin lippujen palautusta, käytä <a href='https://help.ticketmaster.fi/hc/en-us/requests/new?ticket_form_id=360000132334'><b> tätä lomaketta</b></a>.<br>Lomakkeen lähetyksen jälkeen saat vahvistusviestin sähköpostiisi. Lomakkeen tietoja ei voi muuttaa jälkikäteen.<br>Mikäli sinulla on lippuja useammassa eri tilauksessa, täytäthän aina yhden lomakkeen yhtä tilausta/tilausnumeroa kohden.Palautus koskee aina koko tilausta ja kaikkia tilauksen lippuja.<br>Useiden peruuntuneiden ja siirtyneiden tapahtumien vuoksi palautusten käsittelymme on ruuhkautunut. Pahoittelemme viivettä palautusten käsittelyssä.";
+
+
+2351 order numbers found in original list.					
+2402 associated open ticket ids found after processing.
+
+
+360006560993 old purchase date
+360011899838 new purchase date
+#request_custom_fields_360006560993
+#request_custom_fields_360011899838
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+package net.codejava;
+//package com.chillyfacts.com;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+//import java.io.OutputStream;
+//import java.io.Reader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+//import java.net.URLEncoder;
+//import java.util.LinkedHashMap;
+//import java.util.Map;
+//import org.json.JSONObject;
+import java.io.IOException;
+
+public class ArticleFinder {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		String word = "cauliflower";
+		if (word.charAt(0)=='a') {
+			System.out.println("a1 ");
+		}else if(word.charAt(0)=='b') {
+			System.out.println("b1 ");
+		}else if(word.charAt(0)=='c') {
+			System.out.println("c1 ");
+		}else if(word.charAt(0)=='d') {
+			System.out.println("d1 ");
+		}else if(word.charAt(0)=='e') {
+			System.out.println("e1 ");
+		}else if(word.charAt(0)=='f') {
+			System.out.println("f1 ");
+		}else if(word.charAt(0)=='g') {
+			System.out.println("g1 ");
+		}else if(word.charAt(0)=='h') {
+			System.out.println("h1 ");
+		}else if(word.charAt(0)=='i') {
+			System.out.println("i1 ");
+		}else if(word.charAt(0)=='j') {
+			System.out.println("j1 ");
+		}else if(word.charAt(0)=='k') {
+			System.out.println("k1 ");
+		}else if(word.charAt(0)=='l') {
+			System.out.println("l1 ");
+		}else if(word.charAt(0)=='m') {
+			System.out.println("m1 ");
+		}else if(word.charAt(0)=='n') {
+			System.out.println("n1 ");
+		}else if(word.charAt(0)=='o') {
+			System.out.println("o1 ");
+		}else if(word.charAt(0)=='p') {
+			System.out.println("p1 ");
+		}else if(word.charAt(0)=='q') {
+			System.out.println("q1 ");
+		}else if(word.charAt(0)=='r') {
+			System.out.println("r1 ");
+		}else if(word.charAt(0)=='s') {
+			System.out.println("s1 ");
+		}else if(word.charAt(0)=='t') {
+			System.out.println("t1 ");
+		}else if(word.charAt(0)=='u') {
+			System.out.println("u1 ");
+		}else if(word.charAt(0)=='v') {
+			System.out.println("v1 ");
+		}else if(word.charAt(0)=='w') {
+			System.out.println("w1 ");
+		}else if(word.charAt(0)=='x') {
+			System.out.println("x1 ");
+		}else if(word.charAt(0)=='y') {
+			System.out.println("y1 ");
+		}else if(word.charAt(0)=='z'){
+			System.out.println("z1 ");
+		}
+	}
+
+}
+

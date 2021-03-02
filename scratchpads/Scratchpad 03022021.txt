@@ -1,0 +1,16 @@
+Order ids 21 01 2021 - 25012021c - tickets to solve
+
+
+902 order numbers found in original list.
+953 associated open ticket ids found after processing.
+
+
+
+902 order numbers found in original list.
+952 associated open ticket ids found after processing.
+
+All 952 tickets were solved.
+
+Regards,
+
+Tony

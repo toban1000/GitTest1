@@ -1,0 +1,60 @@
+Ciara cancelled the meeting this morning. Contract with the legal team - should be an update later today. Next meeting probably next Wednesday.
+
+Hi,
+I am supplying the following data:
+Call ID: 400000000964515
+Call type: Internal Call
+Originating agent: bente.shackleton@ticketmaster.dk
+Destination agent: mie.enemark@ticketmaster.dk
+Time: 09:56:50 (UTC)
+
+You can use the credentials:
+username: claire.pilling@ticketmaster.dk
+password: ticketmaster123
+
+Regards,
+Tony
+
+
+
+01100187
+
+
+
+Region: EU (Frankfurt)
+Bucket name: pf-s3-biletix-call-data
+New Access Key: AKIA55NCAARVRZFD4TEJ
+Secret Key: To be sent separately
+
+Hi Erika,
+
+Can you provide me with your email address that I can send the secret key to?
+
+Thanks,
+Tony
+
+
+01104539
+Hi,
+
+Although we made a similar request last week, an emergency change now needs to be made.
+
+
+Could you please recycle the Access and Secret keys for the following AWS instance:
+
+Region: EU (Frankfurt)
+Bucket name: pf-s3-biletix-call-data
+New Access Key: AKIA55NCAARVVFFWQQXQ
+Secret Key: To be sent separately
+
+Please provide me with an email address that I can send the secret key to?
+
+Thanks,
+Tony
+
+
+"url": ->  	|"url":|
+"html_url" -> 	|"html_url"
+{"id": ->   	\n|"id"|
+
+

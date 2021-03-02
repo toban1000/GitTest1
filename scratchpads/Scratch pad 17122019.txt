@@ -1,0 +1,142 @@
+Re-open old Turkish case 01140566 (ADP Launch issue)
+""""""""""""""""""""""""""""""""""""""""""""""""""""
+Description
+
+In Depth Description of the Case (What Occurred, Error Received, Steps Taken to Resolve, Resolution, Work Around, etc.)
+SCENARIO: Customer reported issue in launching ADP - it takes several times before it suceeded to login usng ADP
+
+BUSINESS IMPACT: Low
+FREQUENCY:NA
+
+CUSTOMER CONTACT INFORMATION: 
+Name: Tony Obanye
+Email: tony.obanye@ticketmaster.co.uk
+Callback number and Timezone: 011441613853683 UK
+Company name: Ticketmaster Turkey
+
+Edit Description
+Service
+
+Defines the Five9 Service in general that the case is regarding
+VCC
+
+Edit Service
+Topic
+
+Defines the topic of the case
+Softphone
+
+Edit Topic
+Product
+
+Defines the Specific Five9 Product that the case is regarding
+Agent
+
+Edit Product
+
+Implementation Manager
+
+
+How many users
+
+This field together with 'Impact' will determine the Case Priority
+Single User
+
+Edit How many users
+
+Impact
+
+This field together with 'How Many Users' will determine the Case Priority
+Question - Need help/info
+
+Edit Impact
+
+Subject
+
+Brief and Specific Title for the Case
+Agent ADP launching issue
+
+Edit Subject
+Contact Name
+
+Name of Case Contact
+
+tony obanye
+Status
+
+Lifecycle Standing
+Closed
+
+Edit Status
+
+Priority
+
+Urgency and Impact of the Case to the Customer.
+P3
+
+Edit Priority
+
+Case Number
+01140566
+
+
+
+
+"help.billetterie.accorhotelsarena.com","help.americanexpress.ticketmaster.fr","help.billetterie.arenaaix.com","help.billetterie.arkeaarena.com","help.billetterie.auchan.fr","help-tickets.cdiscount.com","ticketmasterfr-cultura.zendesk.com","help.leclercbilletterie.com"
+
+
+
+
+
+
+Norway Xmas closed messaging
+----------------------------
+
+phonnumber 815 33133 and 22828197 CS, CS 815
+
+groups phone 22828149 and 22828147 Groups, Outlets
+
+/////////////////////////////////////////////////////
+Five9 Ticket opened
+"""""""""""""""""""
+createProcess module not working
+P3•New•01152637•Dec 18, 2019
+Details
+DescriptionIn Depth Description of the Case (What Occurred, Error Received, Steps Taken to Resolve, Resolution, Work Around, etc.)
+ServiceDefines the Five9 Service in general that the case is regarding
+VCC
+TopicDefines the topic of the case
+Call Script
+ProductDefines the Specific Five9 Product that the case is regarding
+Administrator
+Implementation Manager
+How many usersThis field together with 'Impact' will determine the Case Priority
+Single User
+ImpactThis field together with 'How Many Users' will determine the Case Priority
+Question - Need help/info
+SubjectBrief and Specific Title for the Case
+createProcess module not working
+Contact NameName of Case Contact
+tony obanye
+StatusLifecycle Standing
+New
+PriorityUrgency and Impact of the Case to the Customer.
+P3
+Case Number
+
+Hi,
+I would like some assistance in getting a createProcess module to work. I'm trying to do a POST query to a third party application, but it isn't working. Is there any way to see the error logs for this transaction?
+
+Thanks,
+Tony 
+//////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+

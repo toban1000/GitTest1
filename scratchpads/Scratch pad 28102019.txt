@@ -1,0 +1,75 @@
+Live EireCS IVR scripts
+Campaign				IVR Script
+
+Accessible				Option 2 - Accessible				
+Agents					Agents
+CCNumber Test				CCNumberTest			
+CCNumberTestFollowThru			CCNumberTestFollowThru
+Customer Service			Option 5 - Customer Service			
+Dublin Sports				Dublin Sports				
+Groups					Groups				
+Main Ireland				Main Ireland
+Outbound				Option 5 - Customer Service				
+Payment					Payment
+ResaleBuyersAndSellers			ResaleBuyersAndSellers
+Survey					Survey
+Test					Test
+Test - 2				Test - 2
+TestOutbound				-
+
+
+
+
+Need an executable
+Need a list of machines required to add five9 to
+
+Case 01128330: Supervisor - data not being shown (TMS) - Now fixed at 15:42 28102019
+
+
+
+More logs for the Turkish case about variable pause after prompting.
+SessionID: 142bdd09-f987-11e9-b945-005056a7711a
+
+CallId: 400000000802378
+Time (GMT): 13:45
+Call start: 0s
+Recording started: 05s
+First DTMF response: 37s
+Second DTMF response: 60s
+
+
+
+CallId: 400000000802381
+Time (GMT): 13:47
+Call start: 0s
+Recording started: 07s
+First DTMF response: 36s
+Second DTMF response: 56s
+
+
+CallId: 400000000802383
+Time (GMT): 13:49
+Call start: 0s
+Recording started: 07s
+First DTMF response: 35s
+Second DTMF response: 56s
+
+
+CallId: 400000000802450 (Network logs only collected for this call)
+Time (GMT): 14:11
+Call start: 0s
+Recording started: 08s
+First DTMF response: 35s
+Second DTMF response: 56s
+
+
+Norwegian issue:
+
+Case 01128460: Caller not heard.
+Phone number 95826190 . Today 12.00 am
+No sound when I answer. I call the customer up and everything works as it should.
+We have a lot of them today.
+Not every phone but some. The problem comes and goes since 10:40 this morning.
+Can you please have a lock?
+We don’t have trouble with internett.
+

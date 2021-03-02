@@ -1,0 +1,47 @@
+CallId: 400000001179319
+Agent name: Jake Phillips
+Time/Date: 19/03/20 12:52
+Customer number: +447989714674
+Recording: 12:51:19(0:05)
+ 
+
+CallId: 400000001179325
+Agent name: Jake Phillips
+Time/Date: 19/03/20 – 12:55
+Customer number: +447989714674
+Recording: 12:54:05(0:59) At the end of the call, i can hear the customer, but unable to hear the agent.
+
+ 
+CallId: 400000001179339
+Agent name: Jake Phillips
+Time/Date: 19/03/20 13@03
+Customer number: +447518709246
+Recording: 13:02:37(0:58) In the middle of the call, i can only hear the customer as the audio from the agent has stopped.
+
+
+CallId: 
+Agent name: Jake Phillips
+Time/Date: 19/03/20
+Customer number:
+
+CallId: 
+Agent name: Jake Phillips
+Time/Date: 19/03/20
+Customer number:
+
+CallId: 
+Agent name: Jake Phillips
+Time/Date: 19/03/20
+Customer number:
+
+
+189119222: Ticket ID = 2903116
+189126731: Ticket ID = 2902953
+193053834: Ticket ID = 2903261
+197334292: Ticket ID = 2903196
+189119082: Ticket ID = 2903249
+189123214: Ticket ID = 2903222
+189136278: Ticket ID = 2903203
+189176984: Ticket ID = 2903209
+193227676: Ticket ID = 2903451
+194657217: Ticket ID = 2903532

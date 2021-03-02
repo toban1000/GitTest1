@@ -1,0 +1,213 @@
+29/07/2020
+1 - Get hold of contact centre managers for the various markets and send them the PCI matrix to fill in
+	Jofre - ES
+
+TBC notices
+Belgium (Location takes telephony payment?, Payment made on inbound call, 
+France (Outbound calls are made from location, Payments made on outbound call, Call recording switched on, AOC required)
+
+
+
+
+
+2 - Make a start on tagging tickets with the various phishing tags.
+3 - Tidy up email
+4 - Tidy up Documents
+5 - Call Jo
+6 - Complete Danish anomalous call ticket
+7 - Tidy up tickets
+8 - Look for EventDB references
+9 - Chase five9 for PRI information
+10 - Deliver five9 RCA for relevant markets
+	relevant markets = NL, TMS, DK, Stoke
+
+
+Order ids 28 07 2020 - 29072020a
+
+
+
+Our Call Centre and Client Support are changing the opening hours.
+
+This applies all lines in our call-centre and our Client Support.
+
+ 
+
+Our call centre includes:
+
+38481630 – Løssalg (70156565)
+
+38481631 – Information
+
+38481633 – Accessibility
+
+38481634 – DHF
+
+38481635 – Gruppeservice (70256585)
+
+ 
+
+These should from 01. May 2020 be open
+
+Monday to Friday from 10.00 – 14.00
+
+ 
+
+Client Support only has one line, which is 38481616.
+
+This should from 01. May 2020 be open
+
+Monday to Friday from 9.00 – 15.00
+
+30/07/2020
+MyAccount - UK Form:
+Fields:
+MyTM- UK - Subtopic - My Order = 360008969337
+MyTM-UK - Sub-Subtopic - Delivery = 360008957518
+MyTM - UK - Nested Topic = 360008968877
+
+31/07/2020
+CCSI Form = 360000237113
+Brand ID = 360001085574
+Fields:
+PreFill test field = 360006745998
+CCSI disposition = 360010336794
+Description = 360006648394
+Type = 360006648434
+Subject = 360006648374
+CCSI Ticket summary = 360005482418
+CCSI Market = 360013769713
+variables:
+ccsi_disposition
+description
+type
+subject
+ccsi_ticket_summary
+ccsi_market
+
+Finland run
+3223884   closed
+
+NL run
+4625765 has been solved at 2020/07/31 11:29:42
+
+
+feb
+mar		11
+apr		13
+may		19
+jun		33
+jul		2428
+jul29
+
+03/08/2020
+1 - do NL have dispostions set
+2 - fix the utf8 situation for ML
+3 - make a start on the PCI matrix
+	fill in the new France configuration
+	communicate with Finland/Switzerland - context, what IVR platform they are using
+4 - do the 2 danish automations
+5 - do scam tags for UK, Ireland, Australia, New Zealand
+	finalize list of terms
+
+
+4733532
+
+direct - 4720897
+delay - 4735315
+
+07/08/2020
+Account takeover monitoring emails sent out
+Netherlands - reply obtained
+Belgium
+France
+Norway - reply obtained
+Sweden
+Denmark - reply obtained
+Finland
+Germany - reply obtained
+Turkey
+Switzerland
+Czechoslovalakia
+Poland
+Spain
+Greece
+Italy
+
+10/08/2020
+1547 order numbers found in original list.
+1658 associated open ticket ids found after processing.
+
+ descRefundList size 241
+ descPrintAtHomeList 2470
+ descComplaintsList 1760
+ refundCount 130728
+ complaintsCount 1437451
+ printAtHomeCount 712139
+ maxRefundCount 5080
+ maxComplaintsCount 22106
+ maxPrintAtHomeCount 3772
+
+Botmaker 
+Bearer 9d8d0594163e5bcd5eede4e0fdd2ae73b86c549ab143a487ea911ec2fc30b9f7
+'Bearer 9d8d0594163e5bcd5eede4e0fdd2ae73b86c549ab143a487ea911ec2fc30b9f7'
+'Bearer 9d8d0594163e5bcd5eede4e0fdd2ae73b86c549ab143a487ea911ec2fc30b9f7'
+Bearer 9d8d0594163e5bcd5eede4e0fdd2ae73b86c549ab143a487ea911ec2fc30b9f7'
+
+        "requester":{"email":variables.email, "name":variables.UsersName},
+        "custom_fields" : [{"id":360012204834, "value":'event_name'},{"id":360006555153, "value": fecha},{"id": 360006691174, "value": variables.phoneNumber},{"id":360006664674, "value": variables.OrderReference}, {"id": 360006664294, "value": variables.PostalCode}],       
+        "request_description": variables.history,
+        "subject": "Order Reference: "+ variables.OrderReference,
+        "email": variables.email,
+        "comment": {"body": 
+
+
+Hi,
+
+
+
+I have obtained the following stats using date range 1/1/2020 - 31/03/2020. Not all tickets are included, just those afforded by the  default 1000 record limit:
+
+
+
+topic_refund: 
+
+Total pool size: 241
+
+Average character count: 542
+
+Max character count: 5080
+
+Min character count: 7
+
+
+
+topic_print_at_home 
+
+Total pool size: 2470
+
+Average character count: 288
+
+Max character count: 3772
+
+Min character count: 11
+
+
+
+topic_complaints
+
+Total pool size: 1760
+
+Average character count: 817
+
+Max character count: 22106
+
+Min character count: 3
+
+
+12/08/2020
+
+1116 order numbers found in original list.					
+1174 associated open ticket ids found after processing.
+
+
+

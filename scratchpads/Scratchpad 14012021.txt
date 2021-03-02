@@ -1,0 +1,36 @@
+
+Are any of the numbers you hold suitable to advertise to customers? 
+Can the provider allow more than one call at a time to the number?
+Who are the provider? 
+What configurability do you have to change the destination the calls are delivered to?
+
+Have you received the routers and switches that you ordered for the infrastructure re-build?
+
+
+
+
+I'm just following up on our previous questions:
+
+Are any of the numbers you hold suitable to advertise to customers?
+
+Can the provider allow more than one call at a time to the number?
+
+Who is the provider?
+
+What configurability do you have to change the destination the calls are delivered to? We may be able to test the solution with a domain that is already live.
+
+Have you received the routers and switches that you ordered for the infrastructure rebuild? And if so, what progress has been made with the rebuild?
+
+Thanks,
+Tony
+
+
+
+
+
+1247 order numbers found in original list.			
+1378 associated open ticket ids found after processing.
+
+
+Wirex pw = 114LouisStreet987!
+

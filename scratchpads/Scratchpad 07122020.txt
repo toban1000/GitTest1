@@ -1,0 +1,34 @@
+This doesn't exclude the uk accessible registration group
+https://ticketmaster.zendesk.com/api/v2/search.json?page=1&query=type:ticket%20-group:%20uk%20accessible%20registration%20brand:Ticketmaster%20UK%20created%3E2020-01-01T12:00:00-08:00%20
+
+So will have to use positive groups
+360001431373
+360003801673 CNX
+360001476357
+360001249854
+360001228113 NL Support
+360003056734
+
+
+uk ct
+uk ln
+
+-group:\"uk%20ct\"%20-group:%20\"uk%20ln\"%20-group:\"uk%20service%20resolutions\"
+
+ticket 4711633 was missed
+
+dpp9
+
+tyk2
+
+
+JSONParser parser = new JSONParser();
+JSONObject jsonObject;
+JSONObject custFieldsObject;
+
+jsonObject = (JSONObject)parser.parse(jsonString);
+JSONArray tickets = (JSONArray)jsonObject.get("request");
+
+
+360000130313
+

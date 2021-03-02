@@ -1,0 +1,152 @@
+TelXl Arsenal 
+
+Option 1 - node references
+ut_ref_destination+56500
+ut_ref_destination+56501
+
+Option 2 - node references
+ut_ref_destination+120643
+
+
+
+ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=m230&sd=1&sm=feb&sy=2020&st=00%3A00&ed=1&em=mar&ey=2020&et=00%3A00&rdp=01-Feb-2020+-+29-Feb-2020&rdtp=01-Feb-2020+00%3A00+-+29-Feb-2020+23%3A59&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B56500&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+http://ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=m230&sd=1&sm=feb&sy=2020&st=00%3A00&ed=1&em=mar&ey=2020&et=00%3A00&rdp=01-Feb-2020+-+29-Feb-2020&rdtp=01-Feb-2020+00%3A00+-+29-Feb-2020+23%3A59&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B56501&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+http://ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=m230&sd=1&sm=feb&sy=2020&st=00%3A00&ed=1&em=mar&ey=2020&et=00%3A00&rdp=01-Feb-2020+-+29-Feb-2020&rdtp=01-Feb-2020+00%3A00+-+29-Feb-2020+23%3A59&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B120643&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+
+
+<Ne<)fW5N42+
+
+
+Netherland dispositions for Fan2Fan
+-----------------------------------
+
+Buyer
+F2F Buyer::Cancellation Request
+Change of delivery address
+Chasing tickets already sent
+Chasing tickets not sent yet
+Chasing tickets::E-tickets already sent
+Chasing tickets::Mobile tickets already sent
+Chasing tickets::Seller has dispatched
+Chasing tickets::TM has dispatched
+Confirmation of booking
+GA explanation
+Incorrect tickets received
+Lost tickets
+Name on the ticket query
+Number of seats issue
+Online booking problems
+Postponed-Cancelled Event Refund
+Refund-Exchange request
+Refused entry
+Reselling resale ticket
+RMSD lost tickets
+Set to COBO
+Ticket chasing over 21 days
+Ticket chasing TF issues
+Tickets delivered to the wrong address
+Valid - genuine tickets
+Weekend Ticket Description
+
+Seller
+Adding RM tracker
+Bank details issue
+Cancellation request
+Cancelled Event Refund
+Cannot see buyers address
+Cannot see listed tickets online GA
+Cannot see lsited tickets online seated
+Cannot supply tickets sold
+Chasing payment before 10 days
+Chasing payment over 10 days
+Chasing postage refund
+Confirmation tickets have been sold
+E-tickets query
+Error when cancelling listing
+How do I dispatch my tickets
+How do i dispatch overseas
+How do I edit - remove my listing
+How do I sell
+Incorrect tickets - no sale yet
+Incorrect tickets::Incorrect tickets sold
+Listing error message
+Listing removed 3 days before
+Left with one seat issue
+Missing last name error
+No Dutch bank account
+Postponed event query
+Resale not available::Deposit scheme
+Resale not available::Gift card payment
+Resale not available::Mobile tickets
+Resale not available::Phone order
+Resale not available::Suppressed
+Resale not available::Event too close
+Resale not available::Frontgate
+Resale not available::Ingresso
+Resale not available::Mapping issue
+Still waiting for tickets from Primary
+Update bank details
+
+Tickets delivered to the wrong address
+
+Coronavirus
+Coronavirus Information Request
+Coronavirus Refund Request
+
+Event Change
+Cancelled - Rescheduled event
+
+Other
+Fraud claim
+Non-cardholder
+Not a resale booking
+Refer to Irish CS
+Ticket transfer query
+
+
+MySQL Password Root password
+
+Ticketmaster987!
+
+MySQL tony obanye password
+12GordonClose987!
+
+
+
+
+///////////////////////////////////////////////
+support@telxl.com
+Last 24 hours between 11pm and 11:50pm daily
+
+node: ut_ref_destination+56500
+http://ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=l24&sd=1&sm=feb&sy=2020&st=00%3A00&ed=1&em=mar&ey=2020&et=00%3A00&rdp=01-Feb-2020+-+29-Feb-2020&rdtp=01-Feb-2020+00%3A00+-+29-Feb-2020+23%3A59&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&lpEx=y&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B56500&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+
+node: ut_ref_destination+56501
+http://ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=l24&sd=24&sm=mar&sy=2020&st=16%3A50&ed=25&em=mar&ey=2020&et=16%3A50&rdp=24-Mar-2020+-+25-Mar-2020&rdtp=24-Mar-2020+16%3A50+-+25-Mar-2020+16%3A50&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&lpEx=y&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B56501&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+node: ut_ref_destination+120643
+http://ticketmaster.call-control.com/caco_g_callLog.asp?back=&displayType=showme&reportType=calllists&sortOrder=countDesc&callsType=aspecificnode&ctOp=0&scopeType=ut_accessNumber%2B85267&dateRangeType=l24&sd=24&sm=mar&sy=2020&st=16%3A51&ed=25&em=mar&ey=2020&et=16%3A51&rdp=24-Mar-2020+-+25-Mar-2020&rdtp=24-Mar-2020+16%3A51+-+25-Mar-2020+16%3A51&tsF=00%3A00&tsT=00%3A00&tsWD=1&tsWD=2&tsWD=3&tsWD=4&tsWD=5&tsWD=6&tsWD=7&email=internal%40ticketmaster.com&mtTS=10&mtTS=11&mtTS=20&mtTS=30&mtTS=40&mtTS=50&mtTF=&ctLTmt=sw&ctTS=&ctCLImt=sw&ctCLIS=&ctDNmt=sw&ctDDIS=&ctDNCLImt=sw&ctDNCLI=&ctNNmt=sw&ctNN=&ctABmt=ac&ctAB=0&ctMinD=0&ctMaxD=999999&ctMinOD=0&ctMaxOD=999999&ctDT=any&ctDmt=sw&ctSD=&ctST=a&ctDRG=&ctDRS=&ctSC=allcalls&ctHO=nofilter&ctPO=nofilter&ctSMSO=nofilter&ctVCCf=&ctVCCv=&ctQID=&ctCC=&ctCCd=&ctCNmt=sw&ctCN=&bbSBr=on&bbSBy=on&bbOptsP=y&oabps=qh&ocSCT=10&ugG=timeline&ugT=count&ugS=-1&dfOptsP=y&dfISH=on&dfIC=on&dfFL=&dfPCSV2=on&dfV=2&rcTN=&rcWT=sd&oaShown=y&oaSALT=y&oaSALTD=1&oaSc=0&oaICIDs=&oaIOIDs=&oaIWLSID=0&oaIIO=on&oaIS=on&oaICC4WS=on&luLL=20%2C0%2C0%2C0&luSW=60&QR8AS=0&QR8TA=60&QR8GB=d&qSBG=on&qBGO=MAX&qDH=on&b=h&cuT=3&wlIP=&lpEx=y&fbGT=0&icWS=1440&icOC=&oneCall=&specificNode=ut_ref_destination%2B120643&ocSCT=10&opAT=20&opIO=both&opEO=ex&oOOt=nonopnonenq&oHTGB=caco_customers&ocQT=20&ocQT1=20&ocQT2=0&ocQT3=0&tqANO=0&tqABO=0&ocSQT=10&ocSAT=0&ocAT=0&tqGB=service&mtTN=-1&mtG=r&mtGL=nc&tT=20&tGB=caco_numbers&gM=calls&gTb=auto&hmSS=1h&tG=0&gT=5&gSS=0&mtGO=0&mtTGL=0&mtTGS=0&ibGB=c&gMT=connectminutes&tMGB=caco_numbers&gRTI=5&ctIn=all&mcLT=all&clSID=on&clSO=inboundStartTime+ASC&rDGS=dy&ScopeTypeChannelSearch=0&qID=0&qIDL=&bdRMID=0&nobanner=
+
+
+
+
+FATAL ERROR in native method: JDWP Can't allocate jvmti memory, jvmtiError=JVMTI_ERROR_INVALID_ENVIRONMENT(116)
+JDWP exit error JVMTI_ERROR_WRONG_PHASE(112): on checking for an interface [util.c:1313]
+JDWP exit error JVMTI_ERROR_INVALID_ENVIRONMENT(116): Can't allocate jvmti memory [util.c:1799]
+ERROR: JDWP unable to dispose of JVMTI environment: JVMTI_ERROR_INVALID_ENVIRONMENT(116)
+
+
+
+Dispositions for NL
+-------------------
+Chasing a refundChasing Tickets (already sent)Chasing Tickets (not sent yet)Checking availabilityComplaintConfirmation of bookingDuplicate bookingEntry RequirementsGA explanationNumber of seats issueOnline booking problemsOrder timed outPayPal issuePostponed/Cancelled Event RefundRefund/Exchange requestreselling resale ticketSeating informationTicket chasing TF issuesGDPR General infoGDPR Request
+
+
+
+
+6,DJZ?wCKcc:
+

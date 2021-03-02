@@ -1,0 +1,39 @@
+$(document).ready(function () {
+   if ( window.location.href === "https://help.ticketmaster.dk/hc/en-us/requests/new?ticket_form_id=360000135598"||window.location.href === "https://help.ticketmaster.dk/hc/da/requests/new?ticket_form_id=360000135598" ){
+     		$(document).ready(function () {
+        		function onchange() {
+              	var locale = $('html').attr('lang');
+            		var topicfield = $('.request_custom_fields_360010585458');
+            		var subjectfield = $('#request_custom_fields_360006664494');
+              	var res;
+              	if (locale === 'da'){
+                  res = topicfield.text().substring(119);}
+            		else {
+                  res = topicfield.text().substring(129);
+                }
+            		subjectfield.val(res);
+        		}
+        		$('#request_custom_fields_360010585458').on('change', onchange);
+				}); 
+   }
+});
+
+
+
+////////////////////////////////////////////// almost final /////////////////////////////////////////
+
+$(document).ready(function () {
+        		function onchange() {
+              	var locale = $('html').attr('lang');
+            		var topicfield = $('.request_custom_fields_360010585458');
+            		var subjectfield = $('#request_custom_fields_360006664494');
+              	var res;
+              	if (locale === 'da'){
+                  res = topicfield.text().substring(119);}
+            		else {
+                  res = topicfield.text().substring(129);
+                }
+            		subjectfield.val(res);
+        		}
+        		$('#request_custom_fields_360010585458').on('change', onchange);
+		});

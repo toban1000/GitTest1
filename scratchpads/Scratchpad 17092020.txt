@@ -1,0 +1,18 @@
+774 order numbers found in original list.				
+824 associated open ticket ids found after processing.
+
+2428 order numbers found in original list.	
+336 associated open ticket ids found after processing.
+
+684 order numbers found in original list.
+736 associated open ticket ids found after processing.
+
+
+6507 order numbers found in original list.					
+7046 associated open ticket ids found after processing.
+
+
+the only thing to really note is that germany just close their tickets, so i don't use the market string for them and just run the bulk close from the back end. so i would suggest creating a new trigger just for germany, with its own comment string (DE_BULK_CLOSE, for example), no dispo, no email.
+
+
+

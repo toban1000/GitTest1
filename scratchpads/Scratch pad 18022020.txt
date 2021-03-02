@@ -1,0 +1,16 @@
+Denmark original configuration (18022020):
+VCC Configuration is Task Longest Wait Time
+Skill prioritisation:
+Transfer to Agent/Distribution Algorithm is Longest Wait - All Calls
+
+
+
+Denmark final configuration:
+VCC Configuration is Task Priority (FIFO)
+Skill prioritisation:
+Transfer to Agent/Distribution Algorithm is Longest Wait - All Calls
+
+
+
+Are agents more productive? For example, being able to work simultaneously on Five9 and Zendesk.
+Has it noticeably affected CSAT scoring? Are customers leaving happier?

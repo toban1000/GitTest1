@@ -1,0 +1,47 @@
+01122720 - Five9 case number for Denmark (Mette being logged off her agent softphone).
+01124077 - Variable delay between GetDigits module and Play module.
+Hi,
+
+We are finding that a variable lag occurs between the termination of a GetDigits module and the start of the next Play module. There doesn't seem to be an obvious explanation. When, for example, we make a direct copy of an IVR script in which this transition period is quite short (say 3 seconds), the duplicated script will have the same transition period taking more than 10 seconds. On the face of it this doesn't seem to be a configuration issue. It feels like a memory or cache issue, but I really don't have a clue. Do you know what might be going on here?
+Regards,
+Tony
+
+
+
+
+
+
+
+
+
+Turkey
+Agents need to see their individual cumulative break times.
+
+Is there a way of removing the logged out agents from the supervisor.
+
+
+Why is the last leg of the transfer-to-webservice call not recorded (also found in the ireland test set up).
+
+
+
+New Turkish call flow (IVR Scripts)
+___________________________________
+
+
+BX - Main Menu (Live)
+Biletix Customer Service - New
+
+
+BX-Purchased Tickets (Live)
+Questions Tickets Purchased - New
+
+
+Questions - New (Live)
+BX-Event Questions
+
+Outlets (Live)
+BX-Outlets
+
+
+Ticket Sales (Live)
+BX-Ticket Sales

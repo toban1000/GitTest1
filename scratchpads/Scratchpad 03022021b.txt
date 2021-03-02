@@ -1,0 +1,23 @@
+Shareef Kannoth <Shareef.Kannoth@Ticketmaster.ae>; Jason Griffin <Jason.Griffin@five9.com>; Dimitrios Siadimas <Dimitrios.Siadimas@Ticketmaster.ae>; Jason Taylor <Jason.taylor@ticketmaster.co.uk>; Michael Firth <Michael.Firth@Ticketmaster.co.uk>
+
+The purpose of this call is to introduce Five9 and the Dubai IT engineering team to each other and for a preliminary discussion around the integration of the current telephony set up in Dubai (consisting of the integration of the SIP PRI from the local SIP provider with the current PABX router) with Five9 where the local PABX router would take on the role of Session Border Controller (SBC).
+
+
+https://ticketmaster.zendesk.com/api/v2/search.json?page=2&query=type:ticket%20brand:%22Ticketmaster%20UK%20group:%22UK%20Accessible%20Registration%22
+
+
+<script type="text/javascript">
+    if ( window.location.href.indexOf === "https://help.ticketmaster.dk/hc/da/requests/new?ticket_form_id=360000135598") > -1) {
+       window.location.href = "https://help.ticketmaster.dk/hc/da/requests/new?ticket_form_id=360000257557";
+    }
+</script>
+
+
+<script type="text/javascript">
+    if ( window.location.href.indexOf("https://ccsi.zendesk.com/hc/en-us/requests/new?ticket_form_id=36000023255") > -1) {
+       window.location.href = "https://ticketmaster.zendesk.com/api/v2/search.json?page=2&query=type:ticket%20brand:%22Ticketmaster%20UK%20group:%22UK%20Accessible%20Registration%22";
+    }
+</script>
+
+
+https://help.ticketmaster.dk/hc/da/requests/new?ticket_form_id=360000135598&Et_cid=3128640&Et_rid=891490753&sfmc_sub=891490753&utm_source=eml-tm_cs_2021_02_02_ela%20minus%20d.%2023.02.21%20-%20flyttet&utm_medium=email&utm_campaign=1347329_3128640_2/2/2021

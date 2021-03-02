@@ -1,0 +1,37 @@
+InputStreamReader x = new InputStreamReader(con.getInputStream());
+    			//BufferedReader br = new BufferedReader(new InputStreamReader(con.getInputStream(), "utf-8")));
+    			BufferedReader br = new BufferedReader(x);
+    			StringBuilder response = new StringBuilder();
+    			String responseLine = null;
+    			while ((responseLine = br.readLine()) != null) {
+    					response.append(responseLine.trim());
+    			}
+    			rs = response.toString();
+    			return rs;
+
+
+
+
+FileOutputStream fout = new FileOutputStream("C:/users/uktob01/documents/newfile.txt");
+String text = "Ticket some text";
+byte[] mybytes = text.getBytes();
+fout.write(mybytes);
+
+
+
+static PrintStream originalOut = null;
+static PrintStream originalErr = null;
+static PrintStream fileOut = null;
+static PrintStream fileErr = null;
+
+originalOut = System.out;
+originalErr = System.err;
+fileOut = new PrintStream("C:/users/uktob01/documents/ticketClose - out.txt");
+fileErr = new PrintStream("C:/users/uktob01/documents/ticketClose - err.txt");
+System.setOut(fileOut);
+System.setErr(fileErr);
+
+
+System.setOut(originalOut);
+System.setErr(originalErr);
+		

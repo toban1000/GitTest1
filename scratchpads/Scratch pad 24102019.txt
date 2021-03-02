@@ -1,0 +1,48 @@
+ <div class="helpsite-footer__submenu">
+      <div class="helpsite-footer__submenu__menu">
+        <a class="menu__link" href="http://www.ticketmaster.co.uk/h/purchase.html">Purchase Policy</a>
+        <a class="menu__link" href="http://www.ticketmaster.co.uk/privacy">Privacy Policy</a>
+        <a class="menu__link" href="https://media.ticketmaster.co.uk/tm/en-gb/img/static/legal/TicketmasterModernSlaveryStatement.pdf">Modern Slavery Statement</a>
+        <a class="menu__link" href="https://media.ticketmaster.co.uk/tm/en-gb/img/static/pdf/TM-Gender-Pay-Gap-Report.pdf">Gender Pay Gap Statement</a>
+        <a class="menu__link" href="https://www.ticketmaster.co.uk/h/cookies.html">Cookies</a>
+        <a class="menu__link"><span class="evidon-notice-link"></span></a>
+      </div>
+      <div class="helpsite-footer__submenu__rights">© 1999-2019 Ticketmaster. All rights reserved.</div>
+    </div>
+  </div>
+</div>
+
+
+
+Turkey:
+<a class="menu__link" href="https://www.ticketmaster.cz/help/cookie-policy.html?language=cs-cz">Informace o cookies</a>
+<a class="menu__link" href="https://www.biletix.com/cookies/TURKIYE/en" target="_blank">Cookies</a>
+
+Not sure why it isn't showing in the current original page, but they have a button, so is there a need for the link?
+
+
+
+
+Universe:
+Links not visible - WHY?
+
+ </div>
+      	<a class="menu__link" href="http://www.ticketmaster.co.uk/h/cookies.html" target="_blank">Cookies</a>
+        <a class="menu__link"><span class="evidon-notice-link"></span></a>
+      <div>
+
+
+
+caitlin.corcoran@eishtec.ie
+david.weldon@eishtec.ie
+damon.crowley@eishtec.ie
+dawn.sharpe@eishtec.ie
+thomas.ocallaghan@eishtec.ie
+gary.quinlan@eishtec.ie
+natasha.holden@eishtec.ie
+hayden.smith@eishtec.ie
+claire.lonergan@eishtec.ie
+megan.mcgrath@eishtec.ie
+sara.comerford@eishtec.ie
+dale.rice@eishtec.ie
+

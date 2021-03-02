@@ -1,0 +1,34 @@
+17/08/2020
+1 - stop the scheduled report for arsenal/TMS
+2 - send the new version of json files to aaron/emma
+3 - put together the stats for smart help project
+4 - test botmaker with new default brand
+5 - put together a new standard botmaker flow
+6 - put together a new botmaker flow that retreives information from zendesk and interacts with customer
+7 - chase jason griffin
+8 - automations
+9 - look into the automated ticket delete
+
+
+
+
+RBqN!j!7-J
+
+Simply Health (7-10 days to
+Alan Brady (contact centre). 18/08/2020
+
+
+de-bulk 18082020 95 tix
+
+
+Article ID:360012022477 How do I change my email address? ///email, i want to change my email address - DOES NOT WORK
+Article ID:360011972358 I’ve bought mobile tickets as a gift, but my guests don’t have a smartphone -1- ///
+Article ID:360011794337 I need help transferring my tickets -1- /// i need help transferring my ticket - WORKS
+Article ID:360011802198 What if I bought mobile tickets as a gift? - 1 - /// what if i bought mobile tickets as a gift - WORKS
+Article ID:360006915018 Event Status Updates /// i want to see event status updates - WORKS
+
+
+1468 order numbers found in original list.					
+1579 associated open ticket ids found after processing.
+
+C]b6Ph8Ju+.k

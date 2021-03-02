@@ -1,0 +1,27 @@
+Cancelled/moved event
+Payment issues
+Use account
+Coronavirus::Information Request
+Coronavirus::Refund Request
+Double booking
+Change purchases
+Online error message after purchase
+Errors online - before purchase
+Presale problems
+Not received ticket
+Not received ticket (ct)
+Not received ticket (pr post)
+Information about Arr/Venue
+Purchase confirmation
+Action - General
+Action - Service
+Action - Venue
+Lost ticket
+Refund
+App questions
+Technical problem
+######
+
+
+1421 order numbers found in original list.					
+1527 associated open ticket ids found after processing.

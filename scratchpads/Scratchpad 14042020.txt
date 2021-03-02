@@ -1,0 +1,314 @@
+S - 5
+S - 5
+M - 3
+T - 2
+W - 2
+T - 2
+F - 2
+S - 3
+S - 2
+M - 1
+T - 1
+W - 1
+T - 1
+F - 1
+S - 0
+S - 0
+M - 1
+T - 1
+W - 1
+T - 1
+F - 1
+S - 2
+S - 2
+M 13/4 - 2
+
+
+90 order numbers found in original list					
+12 associated open ticket ids found after processing
+
+https://ccsi.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000055157&email=jason.taylor@ticketmaster.co.uk
+
+751 order numbers found in original list
+821 associated open ticket ids found after processing
+
+
+)e6saQuXI}
+
+
+g3AnF7|djM6M
+
+problems uploading email data
+jan2020 01:
+	line 4201 - userId=369337925778	email=verbakel.w=@gmail.com	created_at=2020-01-06T14:18:59Z
+oct2019 00
+	line 18527 - userId=367752469858 email=jacqueline.mcintyre=@bbc.co.uk	created_at=2019-10-13T09:12:02Z
+sept2019 00
+	line 15612 - userId=367401004098 email=hjayannen=@gmail.com	created_at=2019-09-20T09:13:45Z
+may2019 01
+	line 28009 - userId=364644466437 email=jvishalbaid=@gmail.com	created_at=2019-05-28T11:09:56Z
+apr2019 - all files missing
+feb2019 02
+	line 10827 - userId=374895733154 email=fin-chan=@hotmail.com.hk	created_at=2019-02-22T16:10:54Z
+dec2018 02
+	line 7010 - userId=370616674993	email=ryan|_howe@hotmail.co.uk	created_at=2018-12-13T16:57:11Z
+nov2018 02
+	line 9845 - userId=369338215513	email=danyates4321=@yahoo.co.uk	created_at=2018-11-19T16:58:35Z
+
+nov2018 03
+	line 7502 - userId=369180371534	email=melanie|_rosed7@hotmail.com created_at=2018-11-15T21:34:15Z
+oct2018 00
+	line 22748 - userId=368106287234 email=thomastreacy82=@gmail.com created_at=2018-10-25T07:25:39Z
+
+aug2018 - all files missing
+jul2018 03
+	line 1 - 363746000000 georgiabesagni@gmail.com 2018-07-01T19:57:15Z (not sure why this failed)	
+
+userId=368467044654|email=briankel001@gmail.com|created_at=2018-11-01T19:59:09Z|
+also - the first lines of june18,july18 and aug18 files need to be input
+
+Feb 2019 02b Row 1 was truncated; it contained more data than there were input columns
+Jul 2018 03b Row 1 was truncated; it contained more data than there were input columns
+Nov 2018 03b Row 1 was truncated; it contained more data than there were input columns
+
+07:05:35	DROP TABLE `users`.`users`	0 row(s) affected	0.078 sec
+
+07:06:38	use users	0 row(s) affected	0.000 sec
+
+07:06:44	requester_id VARCHAR (50),     email VARCHAR (200) NOT NULL,     created_at VARCHAR (50)	Error Code: 1064. You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'requester_id VARCHAR (50),     email VARCHAR (200) NOT NULL,     created_at VARC' at line 1	0.000 sec
+
+07:08:35	CREATE TABLE users (     requester_id VARCHAR (50),     email VARCHAR (200) NOT NULL,     created_at VARCHAR (50) )	0 row(s) affected	0.093 sec
+
+07:14:53	USE users	0 row(s) affected	0.000 sec
+
+07:15:11	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20932 row(s) affected Records: 20932  Deleted: 0  Skipped: 0  Warnings: 0	0.313 sec
+
+07:24:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	34365 row(s) affected Records: 34365  Deleted: 0  Skipped: 0  Warnings: 0	0.312 sec
+
+07:25:02	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20757 row(s) affected Records: 20757  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:25:20	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	23700 row(s) affected Records: 23700  Deleted: 0  Skipped: 0  Warnings: 0	0.187 sec
+
+07:26:22	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19082 row(s) affected Records: 19082  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:26:22	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19082 row(s) affected Records: 19082  Deleted: 0  Skipped: 0  Warnings: 0	0.156 sec
+
+07:26:22	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19082 row(s) affected Records: 19082  Deleted: 0  Skipped: 0  Warnings: 0	0.156 sec
+
+07:26:22	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19082 row(s) affected Records: 19082  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:27:01	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20225 row(s) affected Records: 20225  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:27:01	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20225 row(s) affected Records: 20225  Deleted: 0  Skipped: 0  Warnings: 0	0.156 sec
+
+07:27:01	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20225 row(s) affected Records: 20225  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:27:01	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20225 row(s) affected Records: 20225  Deleted: 0  Skipped: 0  Warnings: 0	0.219 sec
+
+07:27:28	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26850 row(s) affected Records: 26850  Deleted: 0  Skipped: 0  Warnings: 0	0.375 sec
+
+07:27:28	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26850 row(s) affected Records: 26850  Deleted: 0  Skipped: 0  Warnings: 0	0.265 sec
+
+07:27:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26850 row(s) affected Records: 26850  Deleted: 0  Skipped: 0  Warnings: 0	0.219 sec
+
+07:27:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26850 row(s) affected Records: 26850  Deleted: 0  Skipped: 0  Warnings: 0	0.281 sec
+
+07:31:22	delete from users	Error Code: 1175. You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column.  To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.	0.000 sec
+
+07:32:41	use users	0 row(s) affected	0.000 sec
+
+07:32:49	delete from users	Error Code: 1175. You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column.  To disable safe mode, toggle the option in Preferences -> SQL Editor and reconnect.	0.000 sec
+
+07:34:05	DROP TABLE `users`.`users`	0 row(s) affected	0.047 sec
+
+07:34:19	CREATE TABLE users (     requester_id VARCHAR (50),     email VARCHAR (200) NOT NULL,     created_at VARCHAR (50) )	0 row(s) affected	0.062 sec
+
+07:35:38	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	23700 row(s) affected Records: 23700  Deleted: 0  Skipped: 0  Warnings: 0	0.406 sec
+
+07:35:38	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	34365 row(s) affected Records: 34365  Deleted: 0  Skipped: 0  Warnings: 0	0.453 sec
+
+07:35:39	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20757 row(s) affected Records: 20757  Deleted: 0  Skipped: 0  Warnings: 0	0.313 sec
+
+07:35:39	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2020 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20932 row(s) affected Records: 20932  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:36:30	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19082 row(s) affected Records: 19082  Deleted: 0  Skipped: 0  Warnings: 0	0.188 sec
+
+07:36:30	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 4201 was truncated; it contained more data than there were input columns	0.125 sec
+
+07:39:13	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	15394 row(s) affected Records: 15394  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:39:13	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	16182 row(s) affected Records: 16182  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:39:57	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20225 row(s) affected Records: 20225  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:39:57	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	30301 row(s) affected Records: 30301  Deleted: 0  Skipped: 0  Warnings: 0	0.328 sec
+
+07:39:58	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	17850 row(s) affected Records: 17850  Deleted: 0  Skipped: 0  Warnings: 0	0.218 sec
+
+07:39:58	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	17946 row(s) affected Records: 17946  Deleted: 0  Skipped: 0  Warnings: 0	0.203 sec
+
+07:40:26	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/Novemberr2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\Novemberr2019 00.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+07:40:56	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/Novemberr2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\Novemberr2019 01.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+07:41:36	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26850 row(s) affected Records: 26850  Deleted: 0  Skipped: 0  Warnings: 0	0.297 sec
+
+07:41:37	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	32756 row(s) affected Records: 32756  Deleted: 0  Skipped: 0  Warnings: 0	0.375 sec
+
+07:41:37	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	21270 row(s) affected Records: 21270  Deleted: 0  Skipped: 0  Warnings: 0	0.282 sec
+
+07:41:37	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	21482 row(s) affected Records: 21482  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:46:45	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 18527 was truncated; it contained more data than there were input columns	0.390 sec
+
+07:48:01	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	29336 row(s) affected Records: 29336  Deleted: 0  Skipped: 0  Warnings: 0	0.359 sec
+
+07:48:02	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	17518 row(s) affected Records: 17518  Deleted: 0  Skipped: 0  Warnings: 0	0.218 sec
+
+07:48:02	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20903 row(s) affected Records: 20903  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:48:59	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 15612 was truncated; it contained more data than there were input columns	0.390 sec
+
+07:49:44	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	23900 row(s) affected Records: 23900  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:49:44	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	15097 row(s) affected Records: 15097  Deleted: 0  Skipped: 0  Warnings: 0	0.187 sec
+
+07:49:45	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	15051 row(s) affected Records: 15051  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:50:31	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22928 row(s) affected Records: 22928  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:50:31	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	21493 row(s) affected Records: 21493  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:50:32	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	12511 row(s) affected Records: 12511  Deleted: 0  Skipped: 0  Warnings: 0	0.188 sec
+
+07:50:32	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	12054 row(s) affected Records: 12054  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+07:51:08	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	23761 row(s) affected Records: 23761  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+07:51:08	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26138 row(s) affected Records: 26138  Deleted: 0  Skipped: 0  Warnings: 0	0.266 sec
+
+07:51:09	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	15000 row(s) affected Records: 15000  Deleted: 0  Skipped: 0  Warnings: 0	0.203 sec
+
+07:51:09	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13444 row(s) affected Records: 13444  Deleted: 0  Skipped: 0  Warnings: 0	0.156 sec
+
+07:51:34	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	26477 row(s) affected Records: 26477  Deleted: 0  Skipped: 0  Warnings: 0	0.343 sec
+
+07:51:35	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	32703 row(s) affected Records: 32703  Deleted: 0  Skipped: 0  Warnings: 0	0.344 sec
+
+07:51:35	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19694 row(s) affected Records: 19694  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:51:35	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	17211 row(s) affected Records: 17211  Deleted: 0  Skipped: 0  Warnings: 0	0.234 sec
+
+07:52:38	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/May2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	28790 row(s) affected Records: 28790  Deleted: 0  Skipped: 0  Warnings: 0	0.328 sec
+
+07:52:39	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/May2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 28009 was truncated; it contained more data than there were input columns	0.594 sec
+
+07:53:24	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/May2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22054 row(s) affected Records: 22054  Deleted: 0  Skipped: 0  Warnings: 0	0.281 sec
+
+07:53:25	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/May2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	18764 row(s) affected Records: 18764  Deleted: 0  Skipped: 0  Warnings: 0	0.235 sec
+
+07:58:08	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/April2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\April2019 00.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+07:58:33	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/April2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\April2019 01.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+08:00:26	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/March2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22990 row(s) affected Records: 22990  Deleted: 0  Skipped: 0  Warnings: 0	0.297 sec
+
+08:00:26	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/March2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	28291 row(s) affected Records: 28291  Deleted: 0  Skipped: 0  Warnings: 0	0.375 sec
+
+08:00:27	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/March2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	18641 row(s) affected Records: 18641  Deleted: 0  Skipped: 0  Warnings: 0	0.235 sec
+
+08:00:27	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/March2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	18562 row(s) affected Records: 18562  Deleted: 0  Skipped: 0  Warnings: 0	0.282 sec
+
+08:00:58	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	20791 row(s) affected Records: 20791  Deleted: 0  Skipped: 0  Warnings: 0	0.219 sec
+
+08:00:58	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22657 row(s) affected Records: 22657  Deleted: 0  Skipped: 0  Warnings: 0	0.266 sec
+
+08:00:58	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 10827 was truncated; it contained more data than there were input columns	0.250 sec
+
+08:01:54	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	15840 row(s) affected Records: 15840  Deleted: 0  Skipped: 0  Warnings: 0	0.188 sec
+
+08:03:20	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2019 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	14686 row(s) affected Records: 14686  Deleted: 0  Skipped: 0  Warnings: 0	0.171 sec
+
+08:03:20	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2019 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	19803 row(s) affected Records: 19803  Deleted: 0  Skipped: 0  Warnings: 0	0.218 sec
+
+08:03:20	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2019 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	12823 row(s) affected Records: 12823  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+08:03:20	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2019 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13120 row(s) affected Records: 13120  Deleted: 0  Skipped: 0  Warnings: 0	0.172 sec
+
+08:04:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	16653 row(s) affected Records: 16653  Deleted: 0  Skipped: 0  Warnings: 0	0.235 sec
+
+08:04:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22990 row(s) affected Records: 22990  Deleted: 0  Skipped: 0  Warnings: 0	0.313 sec
+
+08:04:30	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 7010 was truncated; it contained more data than there were input columns	0.156 sec
+
+08:05:51	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13295 row(s) affected Records: 13295  Deleted: 0  Skipped: 0  Warnings: 0	0.156 sec
+
+08:07:16	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	21312 row(s) affected Records: 21312  Deleted: 0  Skipped: 0  Warnings: 0	0.313 sec
+
+08:07:16	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	29559 row(s) affected Records: 29559  Deleted: 0  Skipped: 0  Warnings: 0	0.297 sec
+
+08:07:17	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 9845 was truncated; it contained more data than there were input columns	0.313 sec
+
+08:08:23	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 7502 was truncated; it contained more data than there were input columns	0.187 sec
+
+08:09:44	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 22748 was truncated; it contained more data than there were input columns	0.500 sec
+
+08:10:22	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	31974 row(s) affected Records: 31974  Deleted: 0  Skipped: 0  Warnings: 0	0.297 sec
+
+08:10:23	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	17920 row(s) affected Records: 17920  Deleted: 0  Skipped: 0  Warnings: 0	0.297 sec
+
+08:10:23	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13559 row(s) affected Records: 13559  Deleted: 0  Skipped: 0  Warnings: 0	0.171 sec
+
+08:11:32	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22879 row(s) affected Records: 22879  Deleted: 0  Skipped: 0  Warnings: 0	0.359 sec
+
+08:11:33	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	24295 row(s) affected Records: 24295  Deleted: 0  Skipped: 0  Warnings: 0	0.500 sec
+
+08:11:33	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13229 row(s) affected Records: 13229  Deleted: 0  Skipped: 0  Warnings: 0	0.266 sec
+
+08:11:34	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	9634 row(s) affected Records: 9634  Deleted: 0  Skipped: 0  Warnings: 0	0.141 sec
+
+08:12:14	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\August2018 00.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+08:12:27	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\August2018 01.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+08:12:47	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\August2018 02.csv' not found (OS errno 2 - No such file or directory)	0.016 sec
+
+08:12:54	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/August2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 29. File 'c:\programdata\mysql\mysql server 8.0\uploads\August2018 03.csv' not found (OS errno 2 - No such file or directory)	0.000 sec
+
+08:14:06	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22549 row(s) affected Records: 22549  Deleted: 0  Skipped: 0  Warnings: 0	0.265 sec
+
+08:14:06	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	22655 row(s) affected Records: 22655  Deleted: 0  Skipped: 0  Warnings: 0	0.266 sec
+
+08:14:06	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	11376 row(s) affected Records: 11376  Deleted: 0  Skipped: 0  Warnings: 0	0.141 sec
+
+08:14:07	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 1 was truncated; it contained more data than there were input columns	0.047 sec
+
+08:15:11	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2018 00.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	1110 row(s) affected Records: 1110  Deleted: 0  Skipped: 0  Warnings: 0	0.031 sec
+
+08:15:11	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2018 01.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	1605 row(s) affected Records: 1605  Deleted: 0  Skipped: 0  Warnings: 0	0.031 sec
+
+08:15:11	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2018 02.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	1381 row(s) affected Records: 1381  Deleted: 0  Skipped: 0  Warnings: 0	0.031 sec
+
+08:15:11	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/June2018 03.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	1041 row(s) affected Records: 1041  Deleted: 0  Skipped: 0  Warnings: 0	0.031 sec
+10:12:45	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/December2018 02b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	13639 row(s) affected Records: 13639  Deleted: 0  Skipped: 0  Warnings: 0	0.157 sec
+
+10:12:45	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/February2019 02b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 1 was truncated; it contained more data than there were input columns	0.016 sec
+
+10:15:25	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/January2020 01b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	24617 row(s) affected Records: 24617  Deleted: 0  Skipped: 0  Warnings: 0	0.203 sec
+
+10:15:44	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/July2018 03b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 1 was truncated; it contained more data than there were input columns	0.000 sec
+
+10:19:57	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/May2019 01b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	33895 row(s) affected Records: 33895  Deleted: 0  Skipped: 0  Warnings: 0	0.313 sec
+
+10:20:29	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 02b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	16514 row(s) affected Records: 16514  Deleted: 0  Skipped: 0  Warnings: 0	0.188 sec
+
+10:20:43	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/September2019 00b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	27824 row(s) affected Records: 27824  Deleted: 0  Skipped: 0  Warnings: 0	0.250 sec
+
+10:20:57	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/November2018 03b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	Error Code: 1262. Row 1 was truncated; it contained more data than there were input columns	0.015 sec
+
+10:21:18	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2018 00b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	29000 row(s) affected Records: 29000  Deleted: 0  Skipped: 0  Warnings: 0	0.281 sec
+
+10:21:30	LOAD DATA INFILE 'c:/programdata/mysql/mysql server 8.0/uploads/October2019 00b.csv'  INTO TABLE users  FIELDS TERMINATED BY '|'  LINES TERMINATED BY '\n' IGNORE 1 ROWS	41492 row(s) affected Records: 41492  Deleted: 0  Skipped: 0  Warnings: 0	0.391 sec
+
+				
+				

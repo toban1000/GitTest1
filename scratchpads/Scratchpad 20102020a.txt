@@ -1,0 +1,17 @@
+this phone line is currently closed. If you are calling to ask if your event is still going ahead, please be aware we will contact all effected customers once we have been notified of any cancellation, or recheduling. You can also check out helpdesk at help.ticketmaster.co.uk to see whether an event has been cancelled, or rescheduled. Please do not contact us to check whether event is taking place, we will contact you.
+
+For anything else, please visit our help pages at help.ticketmaster.co.uk
+
+
+
+dropdown 360010585458
+text 360010595238
+
+original 360006664494
+
+
+
+new belgian form = 360000232558
+
+
+360010642657 = regex telephone field

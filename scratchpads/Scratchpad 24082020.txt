@@ -1,0 +1,11 @@
+7CIjFau^b=
+
+
+ $(document).ready(function () {
+        function onchange() {
+            var topicfield = $('#request_custom_fields_360008968877');
+            var subjectfield = $('#request_subject');
+            subjectfield.val(topicfield.val());
+        }
+        $('#request_custom_fields_360008968877').on('change', onchange);
+    });
