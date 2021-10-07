@@ -1,0 +1,14 @@
+look at how calls were being answered between 9am and 9:47am looking at Ticnetforsaljning and Websupport. At 9:48 i changed from Round Robin to Longest Wait time.
+
+
+Call answered at 10:19
+
+
+
+Hi Semiray,
+
+How is this working now? Can I close this ticket?
+
+Thanks,
+
+Tony

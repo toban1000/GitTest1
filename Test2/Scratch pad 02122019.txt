@@ -1,0 +1,103 @@
+French help centre urls
+
+https://help.billetterie.accorhotelsarena.com/hc/en-us
+https://help.americanexpress.ticketmaster.fr/hc/en-us
+https://help.billetterie.arenaaix.com/hc/en-us
+https://help.billetterie.arkeaarena.com/hc/en-us
+https://help.billetterie.auchan.fr/hc/en-us
+https://help-tickets.cdiscount.com/hc/en-us
+https://ticketmasterfr-cultura.zendesk.com/hc/en-us
+https://help.leclercbilletterie.com/hc/en-us
+
+
++353818903001
+
+#################################################
+Plan
+Pull the sections up for each French help centre
+Ensure all partner help centres have identical sections to main help centre
+Pull list in java of all section names in main help centre
+Add all section names to drop down menu in java
+Write handler to selection of item in menu (i.e.
+ - Retrieve text file as article
+ - Add selected article to selected section in each help centre
+
+####################################
+Plan
+Create the reports on Five9
+		How many calls were offered to Eishtec daily and weekly?
+
+		How many calls were answered by Eishtec daily and weekly?
+
+		How many calls were abandoned daily and weekly?
+
+		Inbound Call Volume by Hour
+
+		Abandon & Resource Unavail by Hour
+
+		Eishtec Agent Call statistics –
+
+		How many calls each agent took
+		Total + Average call handle time
+		Total + Average ACW time
+		Total + Average Hold time
+		Total + Average Not Ready time with reason codes
+
+
+
+
+
+Schedule the reports to Box
+Create datasets in Domo
+Create graphics for datasets
+Add datasets to dashboard
+
+
+Adding callback to CS Option 5 - Anything else:
+CS Option 5 - Anything else = +443308180190
+CS Option 5 - Anything else Transfer = +443308180183
+
+Adding callback to CS Option 0:
+CS Option 0 = +443308089866
+CS Option 0 Transfer = +443308180178
+
+
+
+Worked with Jason to resolved the issue with callback in which the ANI presented to the caller during the callback call was the DNIS associated with the campaign. 
+We don't want this number being made public, so I have put in place some programming such that if the caller tries to call this number, he or
+she will hit a play and drop and be directed to call the associated NGN.
+
+Switched the call recording options back on for the Irish Five9 domain. Worked with Mike to fix the issue in which the softphone wasn't presenting the Pause and Resume functionality correctly.
+
+Worked with the team to migrate the UK contact centre to Five9. Repointing the NGNs, initially with the Accessible lines, followed the next day by the other lines.
+Worked with Jason, Mike and the IT team to understand the reason why installation of the Five9 softphone on the payment bay computers was being blocked. IT are currently
+troubleshooting this issue.
+
+Checked over temporary HOOP programming put in place by Mike for Norway.
+
+Started work on creating a dashboard in Domo for EireCS. First step, to put together the reports she wants displayed. Will need to arrange a call
+with Ciara to nail these down.
+
+Continued to work with Concentrix to put together a lisf of Irish numbers and their corresponding call minutes in order to present this data
+to Dominic Campion at Invosys.
+
+Put together a list of sections and their corresponding IDs and names. I needed to make sure that all French partner help centres had the same structure
+as the main French help centre. Researched the construction of a drop down menu in Java with the main French help centre sections listed.
+
+
+
+Olympia - 0161 2178412
+Bord Gais - 0161 2178419
+Aviva Stadium - 0161 2178484
+Vicar St - 0161 2178487
+Cricket Ireland - 0161 2178491
+Eire Main - 0161 2178496
+Eire Giftcards - 0161 2178505
+Eire Gaiety Theatre - 0161 2178507
+
+
+
+
+
+
+

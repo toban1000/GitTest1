@@ -1,0 +1,24 @@
+Questions to ask about the platform:
+
+What reporting funtions are available
+	What is the granularity available?
+	How long is data stored for?
+Do you have call recording functionality?
+Can we cap calls
+What service types are available:
+	Standard service: 1 to 1 pointing
+	Call distribution: 1 to many pointing
+	Autoattendant: Menu with several options
+What HOOP functions are available
+	Special dates
+	Individual day
+	Weekend
+	Weekday
+	What are the limitations? Can we program ahead of time for more than 7 days? 14 days?
+How do you search for numbers? What formatting do you use? (wild cards, regex, etc.).
+
+
+Your Housing Head Office
+01925 593000
+
+	

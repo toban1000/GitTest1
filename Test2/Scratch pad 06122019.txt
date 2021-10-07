@@ -1,0 +1,16 @@
+1 - we create a call record using the caller/call details
+2 - we tag the new record by assigning a temporary tag word to one of the contact fields, in this case "street"
+3 - we forward the call to the second campaign using the loopback number via 3rd party transfer
+4 - the first thing the second campaign/ivr script does is to check for the temporary tag. if the contact record of the
+caller has the tag, the call is sent downstream to the rest of the IVR programming, and handled in the normal way. any call
+that enters the second campaign/IVR without having first gone through the 1st campaign (A) (for example, callers who try to
+call using the loop back number), will not have been tagged.
+5 - all untagged calls are identified and directed to a play and drop.
+6 - all calls that have been tagged with the temporary tag will have the tag removed before being processed by the rest of the
+script. This is to prevent any caller who has successfully negotiated the tag checking step from an initial call from dialling back into the second campaign/ivr
+using the tag in his contact record tagged during the initial call.
+
+
+
+
+If a caller rings through with unavailable,

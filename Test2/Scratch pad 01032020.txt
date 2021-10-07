@@ -1,0 +1,23 @@
+Callback prompt in queue
+I stedet for å vente på telefonen, kan du avtale en samtale tilbake, og du vil ikke miste plassen din i køen. Hvis du velger dette alternativet, vil du motta en samtale innen kort tid uten ekstra kostnad for deg. Trykk 1 når som helst hvis du vil motta en samtale tilbake fra en av våre agenter.
+
+Callback number confirm
+Telefonnummeret ditt er ...
+
+Callback different number
+Trykk 1 hvis du vil at vi skal ringe deg tilbake på dette nummeret. Trykk 2 for å oppgi et annet kontaktnummer. Eller, hvis du vil avbryte denne samtalen og gå tilbake til køen for en agent, trykk *.
+
+Callback phone number
+Vennligst tast inn telefonnummeret etterfulgt av # -tasten.
+
+
+Callback Thanks
+Takk skal du ha. Du blir ringt tilbake når en agent blir tilgjengelig.
+
+
+
+
+
+360005829618
+
+https://ccsi.zendesk.com/hc/en-us/articles/360005829618-sixth-article-added-via-api

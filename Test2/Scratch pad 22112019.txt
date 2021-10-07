@@ -1,0 +1,49 @@
+UI Controller
++++++++++++++
+
+displayBudget - new
+DOMStrings - change
+
+
+
+
+Global Controller
++++++++++++++++++
+updateBudget - change
+init - change
+
+
+
+
+List
++++++
+
+
+Irish numbers DONE
+Check messaging before disconnection when all agents in idle or logged out
+Check over Mike's Emergency document DONE
+Talk to Sebastian Denmark
+Finish off Messaging database
+	Box 1 - most recent Voices
+	Box 2 - interactive service list
+Test out Article API creation solution
+Continue testing Belgium Five9/Zendesk adaptor
+Mona
+
+
+
+wholesale supplier of cloud based technology
+support and develop software that telcos serve to us, esp online number management services, providing online portals
+invosys purchased connected world and therefore have more ability to help us
+6degrees have had an account withinvosys for some years
+
+b
+
+
+Sebastian Huddy Iversen
+
+
+Jtk3idb#*p
+
+
+GoToMeeting pwd = Ticketmaster987

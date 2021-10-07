@@ -1,0 +1,109 @@
+Turkey sFTP update
+Make changes to the Turkey sFTP update documentation on Confluence
+Make changes to the call back documentation on Confluence
+Check on Didier
+Check on response to Sweden request about playing message to calls going to Resource unavailable
+Check up on progress wrt the call volumes for invosys
+Ask five9 why my calls aren't communicating with Zendesk to create articles
+
+
+
+
+Hi Craig/Gavin,
+ 
+I received an email from the Five9 support team with the following query?
+ 
+As previously discussed over the phone, we need to confirm the bucket. The credentials appear to work using the original pf-s3-biletix-call-data bucket, but do not work with the bucket pf-s3-biletix-sftp.
+ 
+They want to know whether the access keys should work for both buckets?
+ 
+Thanks,
+
+
+Hi Tony, 
+Our Cloud Ops team has gotten back with us.
+They would be needing the information below to update the customization. 
+Access Key ID:
+Secret Access Key:
+Region Name: 
+Thanks in advance. 
+Warm Regards, 
+Letard Ruela
+Technical Support
+
+
+
+Subject: Re: Five9 Case 01032735 | SOW-00915995-Ticketmaster Turkey-Custom FTPup-Amazon S3 [ ref:_00D30Ewo [ ] 
+I’ve already sent the keys to Jose (on cc) 
+Region doesn’t change – EU (Frankfurt) 
+thanks 
+
+
+
+
+
+
+
+
+
+
+
+Erika Rae Albia•Jun 27, 2019
+Summary
+
+Issue: Renewal of access keys for SFTP upload of recordings
+Resolution: Five9 Infrastructure | SR created for access keys configuration
+Erika Rae Albia
+Erika Rae Albia•Jun 27, 2019
+--------------- Original Message ---------------
+From: Five9 Cases [cases@five9.com]
+Sent: 6/27/2019 9:42 AM
+To: Tony.Obanye@Ticketmaster.co.uk
+Cc: Dave.Ogden@five9.com
+Subject: RE: Five9 Case 01067467 Has Been Received [ ref:_00D30Ewo._5001W1W0S43:ref ]
+
+Hi Tony,
+
+As per our phone conversation earlier, you agreed to close the case 01067467 and upon case closure, you'll be receiving a close case notification and a survey. Looking forward to hearing great words from you with regard to the support we provided to you for this issue. Please feel free to reopen this case within 7 days if needed by replying to this email thread, calling us back or via community.
+
+Thank you!
+
+Warm regards,
+Erika Rae C. Albia
+Technical Support
+
+Five9, Inc.
+O (925) 218-2325 Opt. 1
+4000 Executive Pkwy, Suite 400, San Ramon, CA 94583
+www.Five9.com
+Erika Rae Albia
+Erika Rae Albia•Jun 27, 2019
+Outbound follow up 9:36 PST | 5:36 UK
+Talked to Tony
+Tony said that case resolved, access keys are good and good to close 1067467 - no further issue
+Tony said that case 01068727 - he is still waiting for client's feedback regarding details of the issue and screenshots
+Erika Rae Albia
+Erika Rae Albia•Jun 27, 2019
+--------------- Original Message ---------------
+From: Five9 Cases [cases@five9.com]
+Sent: 6/27/2019 6:58 AM
+To: Tony.Obanye@Ticketmaster.co.uk
+Subject: RE: Five9 Case 01067467 Has Been Received [ ref:_00D30Ewo._5001W1W0S43:ref ]
+
+Hi Tony,
+
+I hope this email finds you well. I'm currently working on this case on behalf of my colleague Raymond. Sending another follow up if you still require further assistance on your open case 01067467. Otherwise, we would like to seek your permission to close the case on our end. I look forward to your response.
+
+Thank you!
+
+Warm regards,
+Erika Rae C. Albia
+Technical Support
+
+Five9, Inc.
+O (925) 218-2325 Opt. 1
+4000 Executive Pkwy, Suite 400, San Ramon, CA 94583
+www.Five9.com
+Erika Rae Albia
+Erika Rae Albia•Jun 26, 2019
+Hi Tony,
